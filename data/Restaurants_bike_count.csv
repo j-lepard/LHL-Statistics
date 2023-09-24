@@ -1,0 +1,1553 @@
+,POI_namerating,price_corrected,rating,Total_bikes_1km
+0,Lupo-wHTXC,3.0,4.5,2024
+1,Le Crocodile Restaurant-GSg5v,4.0,4.5,2024
+2,Guu Original Thurlow-XFVGG,2.0,4.0,1958
+3,Fanny Bay Oyster Bar & Shellfish Market-Ufhxn,2.0,4.5,1898
+4,Sushi Jin-iMtUs,3.0,4.5,1874
+5,Hawksworth Restaurant-70D_r,3.0,4.0,1844
+6,Joe Fortes Seafood & Chop House-2cXOM,3.0,4.0,1818
+7,Forage-t-soD,2.0,4.0,1672
+8,Blue Water Cafe-gt1BS,4.0,4.5,1660
+9,JOEY Burrard-nV-Mk,2.0,4.0,1632
+10,The Flying Pig-NdEPf,2.0,4.0,1608
+11,Zefferelli's-BUFt4,2.0,4.0,1594
+12,Jam Cafe on Beatty-Ljdbt,2.0,4.5,1580
+13,Chambar-_4R46,3.0,4.0,1580
+14,Medina Cafe-VPqWL,2.0,4.0,1572
+15,Robba da Matti-htvl5,3.0,4.0,1558
+16,Gotham Steakhouse & Bar-cY7rI,4.0,4.0,1472
+17,The Mexican Antojitos Y Cantina-AEyYL,2.0,4.5,1454
+18,OEB Breakfast Co. Yaletown-QmkGD,2.0,4.5,1432
+19,Jinya Ramen Bar - Vancouver-8-l4x,2.0,4.0,1426
+20,Rodney's Oyster House-xYDUA,2.0,4.0,1418
+21,Hy's Steakhouse & Cocktail Bar-LCQNN,4.0,4.0,1406
+22,Fable Diner-uonaI,2.0,4.0,1340
+23,La Taqueria Pinche Taco Shop-6iOAg,2.0,4.0,1310
+24,Uma Sushi-4118A,3.0,4.5,1282
+25,Manoush'eh-K1nbi,1.0,5.0,1272
+26,Guu with Garlic-GmEeI,2.0,4.5,1258
+27,The Cascade Room-7mC73,2.0,4.0,1230
+28,Cactus Club Cafe-jKO4O,2.0,4.0,1212
+29,Minami-gV9lr,3.0,4.0,1198
+30,Cioppino's Mediterranean Grill-RIb01,4.0,4.5,1196
+31,Boulevard-DJplk,3.0,4.0,1196
+32,Tom Sushi-o5YLd,2.0,4.5,1194
+33,Miku-4EV_Z,3.0,4.5,1186
+34,Zarak By Afghan Kitchen-piwi7,,4.5,1178
+35,Saku-XAH2H,2.0,4.5,1170
+36,Hokkaido Ramen Santouka-nkDZY,2.0,4.0,1170
+37,Maizal RMF-FFVXF,2.0,4.5,1166
+38,Score on Davie-MimKL,2.0,4.5,1164
+39,Earnest Ice Cream-zXNIn,2.0,4.5,1142
+40,Botanist-QzZfj,3.0,4.5,1126
+41,CinCin Ristorante + Bar-0Bvst,3.0,4.0,1120
+42,Elephant Garden Creamery-JoaCH,1.0,4.5,1106
+43,AJ's Brooklyn Pizza Joint-r-njw,2.0,4.5,1086
+44,49th Parallel Coffee-NnaE4,1.0,4.0,1080
+45,Kingyo-crM1i,2.0,4.5,1078
+46,Saku-iid0V,2.0,4.5,1070
+47,Ramen Danbo-jMz_y,2.0,4.5,1066
+48,Delhi 6 Indian Bistro-usO5e,2.0,4.5,1046
+49,AnnaLena-WAKwi,4.0,4.5,1038
+50,Unchai Thai Restaurant-wyckj,,4.5,1036
+51,Their There-tliWL,2.0,4.0,1028
+52,Maruhachi Ra-men-MELmr,2.0,4.5,1028
+53,Afghan Horsemen Restaurant-1tJ25,2.0,4.0,1022
+54,Passion8 Dessert Cafe--HfxE,2.0,4.0,1014
+55,Maenam-ztP4E,2.0,4.0,1014
+56,Fable Kitchen-p5thT,2.0,4.5,1014
+57,Yu Shang Hot Pot-yodp8,,4.5,1012
+58,Gyu-Kaku Japanese BBQ-GZKia,2.0,4.0,1012
+59,Marulilu Cafe-NensK,2.0,4.0,1010
+60,Hello Nori-RckRm,2.0,4.5,1010
+61,Vij's Restaurant-raZ-N,3.0,4.0,1008
+62,Sura Korean Cuisine-rcLuo,2.0,4.0,1004
+63,Nuba in Gastown-IKWsL,3.0,4.0,996
+64,Burgoo Bistros-KDpED,2.0,4.0,994
+65,Ramen Danbo-D1gkF,2.0,4.0,992
+66,Phnom Penh-yeNen,2.0,4.0,986
+67,Novo Italian-SWK2k,2.0,4.0,974
+68,Elisa-rVuC9,4.0,4.0,972
+69,Black Rice Izakaya-8HH7x,2.0,4.0,968
+70,Tasty Indian Bistro-UwQyc,2.0,4.0,962
+71,Indian Roti Kitchen-pJge_,2.0,4.5,962
+72,Shizen Ya-as2xQ,2.0,4.0,960
+73,Ancora Waterfront Dining and Patio-uuXia,4.0,4.0,954
+74,Seaport City Seafood Restaurant-F5wxg,,4.5,952
+75,Tavola-DkKH_,3.0,4.5,940
+76,Caveman Cafe-ljnja,2.0,4.5,932
+77,Cactus Club Cafe-aB_wf,2.0,4.0,932
+78,Cardero's Restaurant & Marine Pub-fQgcJ,3.0,4.0,930
+79,Chi Vegan-LqzeN,2.0,4.0,928
+80,Suika-umv8z,2.0,4.0,926
+81,Nightingale-hDQmM,3.0,4.0,922
+82,Kosoo-OHMv-,2.0,4.5,914
+83,Maxine's Cafe & Bar-lQuQy,2.0,4.5,912
+84,Bodega On Main-a_uX_,2.0,4.0,906
+85,Gurkha Himalayan Kitchen-V4PAa,2.0,4.0,904
+86,Oddfish-QV4DG,3.0,4.0,894
+87,Jam Cafe-wsp2h,2.0,4.5,888
+88,Toshi Sushi-cD-yI,2.0,4.0,880
+89,Patisserie Lebeau-A2Lly,2.0,4.5,876
+90,Nuba - Mount Pleasant-8gFXr,2.0,4.0,874
+91,La Cigale French Bistro-WWfnt,2.0,4.0,872
+92,Chewies Steam & Oyster Bar - Kits-M4jkJ,2.0,3.5,870
+93,Anh and Chi-l184Y,2.0,4.0,870
+94,Beta5 Chocolates-EITgm,2.0,4.5,866
+95,Five Sails Restaurant-OUzfO,4.0,4.5,862
+96,Burgoo Bistro-w4akE,2.0,4.0,860
+97,The Sandbar Seafood Restaurant-0d9r3,3.0,3.5,858
+98,Romer's Burger Bar-jyBiQ,2.0,3.5,856
+99,Octopus Garden-6k1om,3.0,4.0,856
+100,RedBeef Noodle Kitchen-zPVir,2.0,4.0,844
+101,Sprezzatura-zJFR6,,4.0,840
+102,The Ellis-iHgpW,2.0,4.0,838
+103,Giardino-MczQs,3.0,4.0,836
+104,Au Comptoir-Bo30w,3.0,4.0,836
+105,Banana Leaf-eUf08,2.0,4.0,834
+106,Brix & Mortar-kZN_-,3.0,4.0,832
+107,The Parlour--naJR,2.0,4.0,828
+108,Raisu-TQj4H,2.0,4.0,826
+109,Hokkaido Ramen Santouka-i0xnu,2.0,4.0,826
+110,iDen & Quan Ju De Beijing Duck House-Zi8Yw,,3.5,824
+111,Number E Food-kDZTa,2.0,5.0,814
+112,España Restaurant-oLoO7,2.0,4.0,814
+113,Zakkushi on Denman-pdQ4p,3.0,4.0,810
+114,Pizzeria Barbarella-bNd0K,2.0,4.0,810
+115,The Keg Steakhouse + Bar-_Trgs,3.0,4.0,804
+116,Osteria Savio Volpe-gNCSb,3.0,4.0,802
+117,Mott 32-wVlLe,4.0,4.0,802
+118,Bacchus Restaurant & Lounge-2vXKC,3.0,4.0,802
+119,Temaki Sushi-OULhS,2.0,4.0,800
+120,NUTTEA-OXEaI,,5.0,798
+121,Dynasty Seafood Restaurant-qO03d,2.0,3.5,798
+122,PiDGiN-H4h_n,3.0,4.0,794
+123,Thierry-KXCXa,2.0,4.0,792
+124,Linh Cafe-agMh6,2.0,4.0,788
+125,Nero Waffles-L4jCu,2.0,4.5,780
+126,Long Table Distillery-uNgTj,2.0,4.5,780
+127,The Red Accordion-SIdbZ,2.0,4.5,778
+128,CRAFT Beer Market-P8iva,2.0,3.5,778
+129,Seiza-BrA7s,2.0,4.0,776
+130,Salmon n' Bannock-drhJn,2.0,4.5,774
+131,Dinesty Dumpling House-JgSGp,2.0,4.0,774
+132,Tap & Barrel - Bridges-X7aMz,2.0,4.5,772
+133,Casereccio Foods-qR4rQ,,4.5,770
+134,Beach Ave Bar And Grill-SGJLq,2.0,4.5,770
+135,Fassil Ethiopian Restaurant-9KgB4,2.0,4.5,762
+136,Superbaba-fDqJs,,4.5,750
+137,The Liberty Distillery-zCyms,2.0,4.5,746
+138,Sushi Bar Maumi-7_qZr,4.0,4.0,746
+139,L'Abattoir-7Tne8,3.0,4.0,738
+140,Rain or Shine Ice Cream-4BPVX,2.0,4.0,736
+141,Nero Waffles-icnhQ,2.0,4.5,734
+142,Tutto-vdQbD,3.0,4.5,732
+143,Peaked Pies-E1W37,2.0,4.5,732
+144,Nook-k7-oC,2.0,4.5,730
+145,Bao Bei Chinese Brasserie-K1943,3.0,4.0,726
+146,Congee Noodle House-oGs-M,2.0,3.5,724
+147,Sal y Limón-bExSi,2.0,4.0,722
+148,Les Faux Bourgeois-w3HSO,2.0,4.0,722
+149,Johnnie Fox's Irish Pub-O9KCg,2.0,4.0,722
+150,Torafuku-7Xnem,2.0,4.0,718
+151,Pizzeria Farina-Wt0FJ,2.0,4.0,718
+152,Grapes & Soda-AjFFM,2.0,4.5,718
+153,Twisted Fork-uAROE,2.0,4.0,712
+154,Pourhouse Restaurant-n4y_j,2.0,4.0,710
+155,The Irish Heather Shebeen-Egfp5,2.0,4.0,708
+156,La Mezcaleria-ieuUp,2.0,4.0,704
+157,Di Beppe-G42wP,2.0,4.0,702
+158,Sushi Hil-bCJJD,,4.5,700
+159,Rain or Shine Ice Cream-77sOC,2.0,4.5,698
+160,MeeT in Yaletown-mkqiE,2.0,4.0,696
+161,The Stable House Bistro-e-rcL,2.0,4.0,694
+162,The Farmer's Apprentice-rFjbt,3.0,3.5,694
+163,Peaceful Restaurant-AEOyR,2.0,3.5,682
+164,Fat Mao-zs5zg,2.0,4.0,682
+165,St Lawrence Restaurant-3r9FU,3.0,4.5,680
+166,Beaucoup Bakery & Cafe-rVd78,2.0,4.0,680
+167,Horin Tonkotsu Ramen-R0Oo9,2.0,4.0,678
+168,La Grotta Del Formaggio-2AGNv,1.0,4.5,676
+169,Calabash Bistro-nNhGm,2.0,4.0,674
+170,The Greek By Anatoli-DhWNZ,2.0,4.0,668
+171,Rogue Kitchen & Wetbar-JcxSn,2.0,3.5,664
+172,Dark Table-ysgYb,3.0,4.0,664
+173,Carp-x672P,2.0,4.5,664
+174,Kissa Tanto-1KSuw,4.0,4.0,660
+175,Davie Dosa Company-18aIK,2.0,4.0,660
+176,Las Margaritas Restaurant-Vdq8l,2.0,3.0,658
+177,Burdock-dnwUs,2.0,3.5,658
+178,Viet Family- The Vegan House-je53s,,5.0,656
+179,The Charlatan-jKpHT,2.0,3.5,656
+180,Marcello-2ACWJ,2.0,3.0,656
+181,Harbour Oyster + Bar-ulsLl,2.0,4.0,656
+182,Aperture Coffee Bar-PrKpa,2.0,4.0,656
+183,Fritz European Fry House-A8ab1,1.0,4.0,652
+184,Heritage Asian Eatery-gdSAY,2.0,4.0,648
+185,Lunch Lady-9Waot,2.0,4.0,646
+186,The Pawn Shop YVR-8JZ0c,2.0,4.0,640
+187,The Flying Pig - Village-yB24S,2.0,3.5,638
+188,Tableau Bar Bistro-iafE2,2.0,4.0,638
+189,Sopra Sotto-cA_W0,2.0,4.0,630
+190,MeeT in Gastown-LXW8p,2.0,4.0,622
+191,Chinatown BBQ-uxJqI,2.0,4.5,622
+192,R&B Brewing-76rys,1.0,4.0,620
+193,Jingle Bao-dryyG,2.0,4.0,618
+194,The Keg Steakhouse + Bar-ZVcBd,3.0,3.5,616
+195,Tetsu Sushi Bar-F5qWJ,4.0,4.5,616
+196,Provence Marinaside-yRjZg,3.0,3.5,614
+197,The Vancouver Fish Company--E1kV,3.0,3.5,610
+198,Maruhachi Ra-Men-pSbur,2.0,4.0,610
+199,La Belle Patate-z-1HX,2.0,4.0,610
+200,Oyster Express-rbgjX,2.0,4.5,606
+201,B House-t9g6K,,4.5,604
+202,Havana-HTJTT,2.0,3.5,602
+203,Dolce Amore-kps_s,1.0,4.5,600
+204,Crackle Creme-t8U7x,1.0,4.5,600
+205,Pacific Poke-jENYB,2.0,4.5,596
+206,Tonton Sushi-JWJpN,2.0,4.0,594
+207,Happy Noodle House-V4w2o,2.0,4.5,594
+208,Six Acres-iV8i_,2.0,4.0,590
+209,Memphis Blues-iHHnZ,2.0,3.5,590
+210,Alibi Room-8epZB,2.0,4.5,588
+211,Pepino's-GepW_,3.0,4.0,586
+212,Caffe La Tana-XMCI9,,4.5,586
+213,Local Public Eatery-r6ky7,2.0,3.5,582
+214,Delara-hhEZl,,4.0,580
+215,Sushi California-mvCO6,2.0,3.5,578
+216,Sula Indian Restaurant-l0cLT,2.0,4.0,578
+217,Menya Raizo-oHYOa,2.0,4.0,578
+218,Kishimoto Japanese Kitchen-I0r8k,3.0,4.5,572
+219,Tatta Chulha-WDTzL,,4.5,570
+220,John 3:16 Malaysian Delights-vs_sg,,4.0,566
+221,Nemesis Coffee-pwUPW,2.0,4.0,560
+222,Kokoro Tokyo Mazesoba-0oGCF,2.0,4.0,560
+223,Jamjar - Folk Lebanese Food-OHdcb,2.0,4.0,560
+224,Famoso Neapolitan Pizzeria-mcSFy,2.0,3.5,560
+225,Kin Kao Thai Kitchen-IYyYp,2.0,4.0,558
+226,Downlow Chicken Shack-RWiQ7,2.0,4.0,558
+227,Absinthe Bistro-Laiv2,3.0,4.5,558
+228,Damso Modern Korean Cuisine-lWnrO,2.0,4.0,556
+229,The Mackenzie Room-rpJpZ,4.0,4.5,552
+230,TAKO-z2tHN,1.0,4.0,550
+231,Published On Main-5-adl,,4.5,550
+232,The Burrow-UbwAD,2.0,4.0,548
+233,MILA Plant-Based-nPpD5,3.0,4.5,548
+234,Axum Restaurant-QKdYZ,2.0,4.5,546
+235,Virtuous Pie-bb2yO,2.0,4.5,544
+236,Los Cuervos Taqueria Y Cantina-letTA,2.0,4.0,544
+237,Lombardo's Pizzeria & Restaurant-kRkcK,2.0,3.5,542
+238,Kin Kao Song-Ri0V6,,4.0,542
+239,Rodney's Oyster House-tau2m,2.0,4.0,538
+240,Ignite Pizzeria-NTtQJ,2.0,4.0,536
+241,Como Taperia-e9-5k,,3.5,536
+242,Cactus Club Cafe-u-tcn,2.0,3.5,536
+243,The Hide Out Diner-ZL7QW,,4.5,534
+244,Kulinarya-LtAYi,2.0,4.0,534
+245,Harambe Restaurant-kiNam,2.0,4.0,532
+246,Gringo-xotJv,1.0,4.5,526
+247,Dockside Restaurant-8zR6k,3.0,3.0,526
+248,Blaze Gourmet Burgers-_5cGj,2.0,4.5,526
+249,Tendon Kohaku-S-wge,2.0,4.5,524
+250,Mogu Fried Chicken-YVVXd,,4.5,522
+251,Hachibei Japanese Restaurant-E1ygd,2.0,4.0,522
+252,L'atelier Patisserie-XFkhu,1.0,4.5,520
+253,Via Tevere Pizzeria-BsaN_,2.0,4.0,518
+254,The Cider House-qn_lv,,4.5,514
+255,Heirloom Vegetarian-L2aYr,2.0,3.5,514
+256,Noah's Cafe-U3L-K,,4.5,512
+257,Nightshade-tHc6x,,4.5,508
+258,Healthy Noodle House-yzeJn,1.0,4.5,508
+259,Robba da Matti West End-kVjUb,,4.0,506
+260,Mr Red Cafe-WwozU,2.0,4.0,506
+261,Local Public Eatery-QjL-x,2.0,4.0,506
+262,The Fish Counter-GXLBC,2.0,4.5,502
+263,Osaka Teppanyaki Steak & Seafood House-ahcaw,3.0,4.0,502
+264,The Bench Bakehouse-sX4vS,2.0,4.5,500
+265,The Dime-qX3N-,1.0,3.0,496
+266,Melo Patisserie-WJvPq,,4.5,496
+267,Sing Sing-8oI3f,2.0,3.5,494
+268,Tap & Barrel - Convention Centre-nwwFL,2.0,4.0,492
+269,Banana Leaf-Q2FYU,2.0,3.5,490
+270,The Eatery-SlJax,2.0,3.5,488
+271,Hitoe Sushi Japanese Restaurant-FmD4x,2.0,4.0,488
+272,Green Leaf Sushi-irdrK,2.0,4.0,488
+273,Mumbai Local Restaurant-YeIAJ,2.0,4.0,484
+274,West Oak Restaurant-_Xxsj,3.0,3.5,480
+275,The Keg Steakhouse + Bar - Yaletown-9Vu9g,3.0,3.5,480
+276,Red Truck Beer-MQK-A,2.0,4.0,480
+277,Cactus Club Cafe-TfPQN,2.0,3.5,480
+278,Yolks-CX-NL,2.0,4.0,478
+279,Gyu-Kaku Japanese BBQ-sGqCa,2.0,4.0,478
+280,Lotus Seed Vegan-8GSg9,2.0,4.0,476
+281,Earls Kitchen + Bar-1O63r,3.0,3.0,476
+282,Mr. Red Cafe-EvVCF,2.0,4.0,474
+283,Cactus Club Cafe-7MTK1,2.0,3.5,474
+284,Arike Restaurant-Q7d2j,,5.0,474
+285,The Cannibal Cafe-psIbe,2.0,3.5,472
+286,Belgian Fries-lCp-k,1.0,3.5,472
+287,O5 Tea-mhyHQ,2.0,4.5,470
+288,Cuchillo-8imPe,2.0,4.0,470
+289,Pizzeria Ludica-sUxHZ,2.0,4.0,464
+290,The Red Wagon-R1yQ3,2.0,4.0,462
+291,Takenaka-rRb2C,,4.0,462
+292,PappaRoti-CcNjx,1.0,4.0,460
+293,Yolks-bJKqZ,2.0,3.5,456
+294,Neverland Tea Salon-U5qYT,3.0,4.0,456
+295,East Is East-9R4vB,2.0,4.0,456
+296,Banana Leaf-ULnAJ,2.0,3.5,456
+297,Sahel Market & Restaurant-dZEUL,1.0,4.5,454
+298,Nuba in Kitsilano-C_ApT,2.0,3.5,454
+299,Le Coq Frit-vB_u-,,4.5,454
+300,Landmark Hotpot House-Ewniz,3.0,4.0,454
+301,Haidilao - Vancouver-_0PHG,,4.0,454
+302,Gusto A Taste of Italy-rLAFe,2.0,4.5,454
+303,Cafe Lokal-7JKXz,2.0,4.5,454
+304,Eternal Abundance-deJiY,2.0,4.0,452
+305,Le Petit Belge-VlV2p,2.0,4.0,450
+306,Alouette Bistro-sDmD2,,4.5,450
+307,Tangent Cafe-Lklgh,2.0,3.0,448
+308,Gojo Café-9BWVC,2.0,4.0,448
+309,Bangkok City Cafe-b61w4,2.0,4.0,444
+310,Paul's Omelettery Restaurant-zrb_I,2.0,4.0,442
+311,Breakfast Table-RqtEy,2.0,4.5,442
+312,Bella Gelateria-sCyqV,3.0,4.0,442
+313,The Keefer Bar-azoKl,2.0,4.0,436
+314,St. Augustine's-VznOF,2.0,3.5,436
+315,Mazahr Lebanese Kitchen-ForB5,,5.0,436
+316,Chewie's Chicken & Biscuits-OCgVY,2.0,4.5,436
+317,Yama Cafe-VloU7,2.0,4.5,434
+318,The Belgard Kitchen-LOy9E,2.0,4.0,434
+319,Sai Woo-iLeNi,2.0,3.5,434
+320,DD Mau Chinatown-iAw0V,2.0,4.0,434
+321,Ask For Luigi-V-kQk,2.0,4.0,434
+322,49th Parallel Coffee-EobUH,2.0,4.0,434
+323,Café Portrait-nFxhM,,4.5,430
+324,Windjammer-ClOKH,1.0,3.5,424
+325,Bombay Kitchen and Bar-wnNRw,,4.0,424
+326,Sushi Ville-HF7NN,2.0,3.0,420
+327,Salade de Fruits Cafe-IKXFu,2.0,4.0,420
+328,Westcoast Poke-qebPY,2.0,4.0,418
+329,The Acorn-L5xEQ,2.0,4.0,418
+330,Gyo Para Gyoza & Ramen Bar-jEB1f,2.0,4.0,418
+331,Elwoods-STm8Y,2.0,3.0,416
+332,Daddy's Kitchen-j-teQ,2.0,4.0,416
+333,Ukrainian Village-ATclt,2.0,4.0,414
+334,Taste of Thai-FeaZ-,2.0,4.0,414
+335,Rajio Japanese Public House-2Tp-P,2.0,4.0,414
+336,La Quercia-Mfdo3,3.0,4.0,414
+337,Coast Restaurant-NWyAv,3.0,3.5,414
+338,The Pizza King-o96qq,2.0,4.0,410
+339,Tera V Burger-zNfOi,1.0,4.0,410
+340,Nostos Taverna-o-mRw,,4.5,410
+341,Matchstick Coffee-b8hOu,1.0,4.0,410
+342,Little Bird Dim Sum-CaL6m,2.0,4.0,410
+343,Carlos O'Bryans Neighbourhood Pub-tlrR4,2.0,3.5,410
+344,Pink Pearl Chinese Restaurant-Byj8z,2.0,3.0,408
+345,Kozak Ukraïnian Eatery-rFpTo,2.0,4.5,408
+346,Straight and Marrow-gfj2N,,4.5,406
+347,Aleph Eatery-CkL93,2.0,4.5,406
+348,Noodle Arts-_ipD_,2.0,4.0,404
+349,Jules French Bistro-IwujN,2.0,4.0,400
+350,Beeryani Indian Bistro & Bar-wO5ja,,4.5,398
+351,The Italians-ZjFTV,3.0,4.0,396
+352,Budgies Burritos-TZ2fp,1.0,4.0,396
+353,Suyo Modern Peruvian-X6Bwo,,4.5,392
+354,Sushi 7-z7BKh,2.0,4.0,392
+355,Meat & Bread-5T0vK,2.0,4.0,392
+356,Lin Chinese Cuisine And Tea House-T1MLj,2.0,3.5,392
+357,ARC Restaurant-W2WQD,3.0,4.0,390
+358,Moltan Roll Bar + Sake-qKas7,,4.0,388
+359,Corduroy-1GmSo,2.0,4.0,388
+360,Chongqing Restaurant-CeRGk,2.0,3.5,388
+361,Masa Japanese Restaurant-ERExe,2.0,3.5,386
+362,Small Victory Bakery-d9j1B,2.0,4.0,384
+363,Joon's Kitchen-4sJge,,4.0,384
+364,Tap & Barrel - Olympic Village-AdFx4,2.0,3.0,382
+365,Bin 4 Burger Lounge-r3WqR,2.0,3.5,382
+366,Tojo's-hB18Y,4.0,3.5,380
+367,Maple Grill Restaurant & Catering-JI336,2.0,4.5,380
+368,Yuji's From Japan-X5Esd,2.0,4.0,378
+369,The Kitchen Dada-l-Zr7,,4.0,378
+370,Olympia Pizza-5BNRs,2.0,3.5,378
+371,Midam Cafe-XvrBK,,4.5,378
+372,Grounds For Coffee-4a4Sj,2.0,4.0,378
+373,Dundas Eat + Drink-RjaMc,2.0,4.5,378
+374,Uncle Fatih's Pizza-I_htQ,1.0,3.5,376
+375,The Wolf & Hound-s-bZz,2.0,3.5,376
+376,Tacofino Commissary-23kN4,2.0,4.0,376
+377,Double DD Pizza-AejLe,2.0,3.5,376
+378,Aphrodite's Organic  Pie Shop-mROKr,2.0,3.5,376
+379,Simit Bakery-wQMzD,,4.5,374
+380,Odd Society Spirits-gMhOz,2.0,4.5,374
+381,Sun Sui Wah Seafood Restaurant-UAcbp,2.0,3.5,372
+382,La Casa Gelato-Dllpj,2.0,4.0,372
+383,El Camino's-LIb2b,2.0,3.5,372
+384,Purebread-sNzMl,,4.5,370
+385,Thai Son Restaurant-ZHbii,1.0,3.5,368
+386,Straight Outta Brooklyn NYC Pizzeria-Bznl0,1.0,4.0,368
+387,Sunrise Pizza & Steak House-5wdqT,2.0,3.5,366
+388,Nook-jyU8_,,4.0,366
+389,Kaide Sushi-NBiBI,2.0,4.0,364
+390,Grounds For Coffee-zcoPj,2.0,4.0,364
+391,Won More Szechuan Cuisine-h4hJ1,2.0,4.0,362
+392,Vonns--MpIN,,4.5,362
+393,The Park Pub-6ELhQ,2.0,3.5,362
+394,The Only Cafe-_o4eC,2.0,4.5,362
+395,La Taqueria Pinche Taco Shop-vXTo6,2.0,4.5,362
+396,Hook Restaurant-gVnMn,3.0,3.5,362
+397,Jackalope's Neighbourhood Dive-maVuf,2.0,4.5,360
+398,Fat Mao Noodles-WAoOG,,4.5,360
+399,Straight Outta Brooklyn NYC Pizzeria-vSoUs,1.0,4.0,358
+400,Mello-MbdhO,1.0,4.5,358
+401,Akbar's Own Dining Lounge-VcQA3,2.0,3.5,358
+402,Ofra’s Kitchen-tzJJt,,4.5,356
+403,Legendary Noodle House-lkesp,2.0,3.5,356
+404,Tabom-dGLqM,,4.0,354
+405,Shizenya on Broadway-VcaNo,2.0,4.0,354
+406,Oh Sweet Day-gpsha,,4.5,352
+407,Fujiya Japanese Foods-gpTJq,1.0,4.0,348
+408,Bon Crepe-Opagb,1.0,4.5,348
+409,Homer St. Cafe and Bar-_-8ej,2.0,3.5,346
+410,Caffe W-jUEU9,1.0,4.5,346
+411,Breka Bakery & Cafe-TKrKl,2.0,4.0,346
+412,The French Table Bistro-uuN8Q,3.0,3.5,344
+413,Nook-QHwx4,2.0,4.0,344
+414,Loku Japanese Cuisine-vLnt3,,3.5,344
+415,Key Party-acjbJ,,4.5,344
+416,JJ Bean Coffee Roasters-tHSNY,1.0,3.5,344
+417,Glowbal-hf4T7,3.0,3.0,342
+418,Disco Cheetah-wzdPb,2.0,4.0,342
+419,Mamalee Malaysian Delight-yax1n,2.0,3.5,340
+420,Kitstaya Sushi-Liikk,1.0,3.0,340
+421,Deacon's Corner-cSKow,2.0,3.5,340
+422,Tropika On Cambie-KN9zC,2.0,3.0,338
+423,The Firewood Café-NPOkj,2.0,4.0,338
+424,Riley's Fish & Steak-2L1qg,,4.5,338
+425,Level V Bakery-STTsn,,4.5,336
+426,Zakkushi Dining On Main-8vQHb,2.0,4.0,334
+427,Finch & Barley-R9R61,2.0,4.0,334
+428,Uno Gelato-sc5je,,4.5,332
+429,The PokéMan-ki2r4,2.0,4.5,332
+430,Shiro-HIJlN,2.0,4.0,332
+431,Folke Restaurant-LfA9O,,4.5,332
+432,CRAFT Beer Market-7bKQ2,,4.0,332
+433,Ophelia-f_mAW,,3.5,330
+434,Handi Grill-aaBoK,2.0,3.5,330
+435,Earnest Ice Cream-vwoK7,2.0,4.5,328
+436,Deja Brew-qfM6Z,2.0,4.5,328
+437,The Three Brits Public House-xhDQ6,2.0,3.5,326
+438,The Gluten Free Epicurean-FHT6x,1.0,4.0,326
+439,Tandoori Fusion-QxNVm,2.0,4.0,326
+440,Pho Japolo-zkib9,2.0,4.0,326
+441,Livia-Vtmuv,2.0,4.0,326
+442,Bells and Whistles-ki6qk,2.0,3.0,326
+443,Barbara-d0YyL,,4.5,326
+444,Nemesis Coffee-GQK8t,2.0,4.5,324
+445,Tocador-0DOiG,2.0,3.5,322
+446,Black & Blue-ai3Do,4.0,3.5,322
+447,The Boathouse Restaurant-JT0hv,2.0,2.5,320
+448,The Bayside Lounge--kPDl,2.0,3.5,320
+449,Aphrodite's Organic Cafe-HuQNz,2.0,3.0,318
+450,The Lennox Pub-JiWMD,2.0,3.5,316
+451,Mary's on Davie-u1x6D,,4.0,316
+452,Happy Lamb Hot Pot-3Q-v4,2.0,3.0,316
+453,Salt Tasting Room-r-UGA,2.0,4.0,314
+454,The Victor-YV0ty,4.0,3.5,312
+455,Jericho Beach-dN_NU,,4.5,312
+456,Hime Sushi Restaurant-UjDZw,2.0,3.5,312
+457,Dalina-z8Ll8,2.0,4.5,312
+458,Camion Cafe-C-ddZ,,5.0,312
+459,Indian Oven Restaurant-LpkjU,2.0,3.5,310
+460,Simply Sushi  Bar-v8zJs,1.0,4.0,308
+461,The Locus-VNxlp,2.0,4.0,306
+462,The Tiki Bar-FS_8U,2.0,4.0,304
+463,Tandoori Palace-iPlWT,2.0,3.5,304
+464,The Magnet-JGZbG,,5.0,302
+465,Pallet Coffee Roasters-mGPro,2.0,4.5,302
+466,On Lok-vPxMZ,2.0,3.0,302
+467,Indochine Kitchen-S1Rmn,2.0,3.0,300
+468,Browns Socialhouse Point Grey-onSot,2.0,3.5,300
+469,The Ramen Butcher-XZg7T,2.0,3.5,298
+470,Take Thai Home-90Mh5,2.0,3.5,296
+471,Naruto Sushi-EWwUw,1.0,3.5,296
+472,Mitra Canteen-kkg_8,1.0,4.0,296
+473,Fratelli Authentic Italian Baking-TZFzu,2.0,4.0,296
+474,Fiorino-seDlM,2.0,4.0,296
+475,Café Calabria-ZOu3g,2.0,3.5,296
+476,The Templeton-2rME5,2.0,4.0,294
+477,The Hoke Poke-h60Cu,2.0,4.5,294
+478,Cafe & Life Co.-sJ-mE,,4.5,294
+479,Swiss Bakery-Yw2rJ,1.0,4.0,292
+480,Siegel's Bagels-JvnNR,1.0,4.0,292
+481,Per Se Social Corner-s_Wc0,2.0,3.5,292
+482,Broadway Station Sushi-qojkM,2.0,3.0,292
+483,The Naam-_3TI4,2.0,3.5,290
+484,Papi's Seafood and Oyster Bar-Kngyi,,3.5,290
+485,Mediterranean Grill-xShqh,2.0,3.0,290
+486,Lumiere Cafe-9hcYO,,4.5,290
+487,La Boqueria-ZaO2Z,,4.0,290
+488,Maruhachi Ra-men-uYDRM,2.0,3.5,288
+489,Lucy's Eastside Diner-0kB2w,2.0,3.0,288
+490,Kosoo Restaurant-FLRlO,2.0,3.5,288
+491,Lemonade Gluten Free Bakery-OP174,2.0,4.5,286
+492,Devil's Elbow Ale & Smoke House-K7c5u,2.0,3.5,286
+493,Darby's Pub-QrnrY,2.0,3.5,286
+494,Chung Chun-0PI5V,1.0,4.5,286
+495,Caffe Cittadella-UkSNd,2.0,4.0,286
+496,La Pache Pizza-T7KT5,,4.0,284
+497,Juno Provisions-9ltXA,,4.0,284
+498,Chang'An-6qT3o,3.0,3.5,284
+499,Argo Café-dPO65,2.0,4.0,284
+500,Tokyo In April-ecN9x,2.0,4.5,282
+501,Regal Mansion Cuisine Seafood Restaurant-1ghN_,,3.5,282
+502,Pure Delight Café-JZuk2,2.0,3.5,282
+503,Lucky Taco-bUyJ7,2.0,3.5,282
+504,The Biltmore Cabaret-gWf9M,1.0,4.0,280
+505,Narrow Lounge-d3z6L,2.0,4.0,280
+506,Cazba-67zb4,2.0,3.5,280
+507,District Bar & Restaurant-Ev4Oa,2.0,4.0,278
+508,City of Vancouver-vGyDx,,4.5,278
+509,Sylvia's Restaurant and Lounge-Ioo3F,2.0,3.0,276
+510,Sushi Yama-PBdwe,2.0,3.5,276
+511,Moose's Down Under-fypxz,2.0,4.0,276
+512,Incognito Coffee-3Byjr,2.0,5.0,276
+513,Fire Pizza-pI9Zt,1.0,3.5,276
+514,Best Falafel-qeFny,1.0,3.5,276
+515,Tacofino-xOqfv,2.0,4.0,274
+516,Purebread-nct5i,2.0,4.5,274
+517,Xing Fu Tang Canada-Mk2lj,1.0,3.5,272
+518,True Confections-8WdKg,2.0,3.0,272
+519,Top of Vancouver Revolving Restaurant-HmslQ,4.0,3.0,272
+520,Koko Japanese Restaurant-ZdGTT,2.0,4.0,272
+521,Jo's Italian Deli-nOsaq,,3.5,272
+522,Itosugi Kappo Cuisine-0GcsM,,4.5,272
+523,Irori Sushi-39EEN,2.0,4.0,272
+524,Honey Salt-3r3RH,2.0,3.5,272
+525,Dachi-fjfwA,2.0,4.0,272
+526,Browns Crafthouse Seymour-EjwUc,2.0,4.0,272
+527,Beyond Bread Artisan Bakery-P78gU,2.0,4.0,272
+528,Yook Korean Grilled BBQ & Bistro-2WRCc,2.0,4.0,270
+529,Tacofino-SE9d6,2.0,3.5,270
+530,Blue Hat Bistro-zcl4G,2.0,3.5,270
+531,Anna's Cake House-MTtZk,2.0,4.0,270
+532,Yanaki Sushi-GOTYt,2.0,4.0,268
+533,Tacomio-NUFjm,,4.5,268
+534,Showcase Restaurant & Bar-WPrY9,2.0,4.0,266
+535,Marché Mon Pitou-tLUQH,2.0,4.5,266
+536,Finch's Tea & Coffee House-4lKyg,2.0,4.5,266
+537,C&T Fried Chicken-lrTX-,,4.5,266
+538,Z&W Shanghai-sB69p,,4.0,264
+539,Yagoto Sushi Dining-HhJyq,2.0,4.5,264
+540,Pelican Seafood Restaurant-lSSff,2.0,3.0,264
+541,Napoletana Pizza Cafe & Gelato-V2MqB,2.0,3.5,264
+542,Ignite Pizzeria-0S5mW,,4.5,264
+543,Elephant-y4vjM,,5.0,264
+544,Daigyo-foSIA,,4.5,264
+545,Banana Leaf-TLVNU,2.0,3.5,264
+546,A.Bento-y583P,2.0,4.0,264
+547,Seasons In the Park-l2f2P,3.0,4.0,262
+548,Kirin Seafood Restaurant-wf6nz,2.0,3.0,262
+549,"Juke Fried Chicken, Ribs and Cocktail Bar-aFOMO",2.0,3.0,262
+550,Viet House-RDm50,2.0,3.5,260
+551,Thai Basil-WWTTo,1.0,4.0,260
+552,Social-Z4zmi,2.0,3.5,260
+553,Potluck Hawker Eatery-fwFhs,,3.5,260
+554,Kintaro Ramen-XZWw3,2.0,4.0,260
+555,Yaletown Brewing Company-yg2s2,2.0,3.5,258
+556,Sula-AoLyG,2.0,4.5,258
+557,Rocky Mountain Flatbread-VMTKd,2.0,4.0,258
+558,Notch8 Restaurant & Bar-8Wzyn,3.0,3.5,258
+559,Koko Monk Chocolates-msIUl,2.0,4.5,258
+560,Apollonia Greek Restaurant-P2Mkg,2.0,3.5,258
+561,Jackson's Meat & Deli-0oKwa,2.0,4.5,256
+562,Siegel's Bagels-1C3zb,1.0,3.5,254
+563,Pacifico Pizzeria & Ristorante-d8Ft7,2.0,3.5,254
+564,La Catrina Tacos-rhkj-,1.0,4.5,254
+565,Black Frog Eatery-MWerl,2.0,4.0,254
+566,Bao Down Gastropub + Raw bar-AlEsj,2.0,3.0,254
+567,Yugo Restaurant-Z9pPs,3.0,4.0,250
+568,Trafiq Cafe & Bakery-YKwsl,2.0,4.5,250
+569,Terra Breads-9R9yC,2.0,4.0,250
+570,New India Buffet-ekPyu,2.0,2.5,250
+571,Manpuku Bento-RfcPs,,4.5,250
+572,Grub-4J6-d,2.0,4.0,250
+573,Earls Kitchen + Bar-wQ7r2,2.0,4.0,250
+574,Zaccary's Pizza-13Iwp,2.0,4.0,248
+575,Green Lemongrass-9AblC,1.0,4.0,248
+576,Earnest Ice Cream-qifKc,2.0,4.5,248
+577,Bonjour Vietnam Bistro-HDlyH,,4.0,248
+578,Pho Xe Lua 24-eHvdu,2.0,4.0,246
+579,Cavo Bar and Kitchen-0jl_G,2.0,3.5,246
+580,Café Gloucester-0xUvt,2.0,3.5,246
+581,Sushi Coen-v1SXL,2.0,4.0,244
+582,COFU Pressed Sushi-ellK-,,4.5,244
+583,Paramount Fine Foods-DudKS,2.0,3.5,242
+584,Japadog-a7YBn,1.0,4.0,242
+585,Yan Bakery-JAQI0,2.0,4.5,240
+586,Pho Win-ZcVWo,1.0,3.5,240
+587,Petite Bao-VDb_1,,5.0,240
+588,Livni Café & Bakery-tUh4N,,5.0,240
+589,Innocent Ice Cream-pBc08,2.0,4.0,240
+590,Flourist-6z7n2,2.0,4.0,240
+591,Big Bang Sushi-CkjGm,,4.5,240
+592,Lumine Coffee-GEIXe,1.0,4.5,238
+593,Zabu Chicken-QVlOh,2.0,3.0,236
+594,Go Fish Ocean Emporium-d5c01,2.0,4.0,236
+595,Circus Play Cafe-Clw_6,2.0,4.0,236
+596,Bai Bua Thai Cuisine-nq5Ms,2.0,4.0,236
+597,The Golden Horn Turkish Bakery & Cafe-rZNgr,,5.0,234
+598,La Petite Cuillère-3c5iJ,2.0,3.5,234
+599,Hapa Izakaya-tdcbw,2.0,3.5,234
+600,Earls Kitchen + Bar-9S7kM,2.0,3.5,234
+601,Bob Likes Thai Food-D4JtQ,2.0,3.5,234
+602,Arbutus Coffee-q57lv,2.0,4.0,234
+603,The Royal Canadian Legion-8pD4T,1.0,4.0,232
+604,Sweet Barrel Creamery and Coffee Roasters-maG5Q,,4.5,232
+605,Plaisir Sucre-aF8kR,1.0,4.0,232
+606,Pete's Meat Butcher Shop & Deli-Gw2Zl,2.0,4.0,232
+607,Dosanko-wLgCn,2.0,4.0,232
+608,Denny's-EYreE,2.0,3.5,232
+609,Coquette-ZuK-D,,4.0,232
+610,Bellagio Cafe-AcEBu,2.0,3.0,232
+611,Afuri Ramen + Dumpling-637XG,,4.0,232
+612,Viet Flavour Restaurant-eXCJp,,4.0,230
+613,Stepho's Souvlaki Greek Taverna-WFew5,2.0,3.0,230
+614,Olympia Restaurant-gBQym,2.0,3.0,230
+615,Maria's Taverna-xkZuQ,2.0,3.5,230
+616,Sen Pad Thai-DzaSS,2.0,4.0,228
+617,Rogue Kitchen & Wetbar-C58Cu,2.0,3.5,228
+618,Mount Everest Kitchen & Grill-pHLp3,,4.5,228
+619,Mosaic Bar & Grille-nxTqx,3.0,3.5,228
+620,DK Chicken-4dx9r,,4.0,228
+621,Ton Ton Sushi-cTKeb,,3.5,226
+622,Salathai Thai Restaurant-QeHqi,2.0,3.5,224
+623,Johnny's Pops-XdOpl,1.0,5.0,224
+624,Italian Kitchen-g-WSO,3.0,3.5,224
+625,Indian Delicacy-ykzWu,2.0,4.5,224
+626,Earls Kitchen + Bar-DBaxx,2.0,3.5,224
+627,Corner Cup-7bkFL,2.0,4.0,224
+628,Al Basha-odOYq,1.0,4.0,224
+629,Harvest Deli-iHr34,1.0,4.5,222
+630,Gain Wah Restaurant-CaW6U,1.0,4.0,222
+631,White Spot-GG3V3,2.0,3.5,220
+632,Palate Kitchen-9QJ5_,2.0,4.0,220
+633,La Terrazza-upa_m,3.0,3.5,220
+634,L'ufficio-CUeoL,4.0,4.0,220
+635,Kozu Sushi Pizza-i5GOK,,4.5,220
+636,Iron Wok Chinese Express-XVGfq,2.0,3.0,220
+637,Blenz Coffee-OkNe1,1.0,4.0,220
+638,The Roof-NRItg,3.0,4.0,218
+639,R&B Ale & Pizza House-EichP,2.0,4.0,218
+640,Queen Elizabeth Park-QZMDi,,4.5,218
+641,Monsoon Indian Restaurant-n0Cop,,4.0,218
+642,Jolly's Indian Bistro-cBhHr,2.0,3.5,218
+643,Chef's Choice Chinese Cuisine-pmy36,,4.0,218
+644,Bloedel Conservatory-dqXYg,,4.5,218
+645,Tsuki Sushi Bar-CjQMc,2.0,4.0,214
+646,The Keg Steakhouse + Bar - Dunsmuir-DuA0z,3.0,4.0,214
+647,Ong Ba-AMFub,,4.0,214
+648,Nat's New York Pizzeria-5Tkyw,1.0,3.5,214
+649,ChongQing-vnKoB,2.0,3.5,214
+650,Zaatar W Zeit-dGw1m,2.0,4.0,212
+651,Yasma-Ckna_,,5.0,212
+652,VV Tapas Lounge-6qrRd,,5.0,212
+653,The Garden Strathcona-viUq9,,5.0,212
+654,Sharetea-i7ybV,1.0,4.0,212
+655,Saucin Staples-RxX6b,,4.5,212
+656,Osaka Sushi-SzQ0e,1.0,4.0,212
+657,Hon's Wonton House-stppo,,3.0,212
+658,Chun Fun How-WSpYh,,4.5,212
+659,Browns Socialhouse QE Theatre-suqB3,2.0,4.0,212
+660,Billy Bishop Branch 176 Royal Canadian Legion-Yxk-O,,4.5,212
+661,Banter Room-tcMvd,2.0,3.5,212
+662,Yui Japanese Bistro-uZGQy,2.0,4.0,210
+663,Rooster's Ice Cream Bar-l33Kt,1.0,4.0,210
+664,Quizine Kitchen-s2SbC,,5.0,210
+665,Platform 7-4ZReI,2.0,4.0,210
+666,MDG Ma Dang Goul-S9qq5,2.0,3.5,210
+667,Izakaya Gon's-ayccB,,3.5,210
+668,Hail Mary's-I5dIe,,4.5,210
+669,Vietnamese Tea House-klo0s,1.0,4.5,208
+670,Vietnam House Restaurant-JgkQt,1.0,3.5,208
+671,Tentatsu-JUDsc,2.0,3.0,208
+672,Sushi Nanaimo-Yrn-M,2.0,3.5,208
+673,Royal Palace Seafood-Mtw7x,2.0,4.5,208
+674,Laksa King-0L4ON,2.0,4.0,208
+675,Golden Seafood Restaurant-Bpk0E,,4.0,208
+676,Edible Flours-_kCmJ,1.0,4.0,208
+677,Thierry - Mount Pleasant-vDpWo,2.0,4.0,206
+678,The Sauce Pasta Cafe-AF4c_,,4.0,206
+679,The Dirty Apron Delicatessen-cLGh_,2.0,4.5,206
+680,Good Dogs Plant Foods-txxIT,2.0,4.5,206
+681,Ebisu On Robson-VZGdy,2.0,3.5,206
+682,Ba Le Banh Mi-KAkyc,,3.5,206
+683,Wicked Cafe-jsYvn,2.0,4.0,204
+684,Uva Wine & Cocktail Bar-7tG5H,2.0,4.0,204
+685,The General Public-K1Lpy,2.0,3.5,204
+686,Sweet Cherubim-MILJR,2.0,3.5,204
+687,Frying Pan-g6F_M,,4.5,204
+688,Commercial Sushi-viIkP,2.0,3.0,204
+689,Cibo Trattoria-E07HA,3.0,3.5,204
+690,Baby Dhal Roti Shop-dw501,,4.0,204
+691,Whisk Matcha-IO51V,,4.0,202
+692,The Shameful Tiki Room-CwL5j,2.0,4.5,202
+693,The Arbor-sKT_d,2.0,4.0,202
+694,Stanley Park-kajMc,,5.0,202
+695,Sawasdee Thai Restaurant-DqqqV,2.0,4.0,202
+696,Reflections Terrace-T8qDE,3.0,3.5,202
+697,MeeT on Main-kOOX1,2.0,4.0,202
+698,Heritage Asian Eatery-GCX0c,2.0,3.5,202
+699,1931 Gallery Bistro-n7cBS,,3.5,202
+700,Bistro Sakana-0zErZ,3.0,3.5,200
+701,The Fringe Café-YUfcu,2.0,3.5,198
+702,Takis Taverna-MjRHs,2.0,3.5,196
+703,Silk Lounge-_m3Gk,,4.0,196
+704,Sake Maki-7EKeO,2.0,3.5,196
+705,Momo Sushi House-Xgr6F,1.0,3.5,196
+706,Sushi Inn-FsTGb,2.0,3.5,194
+707,Mr. Falafel-nysLD,1.0,3.0,194
+708,La Casita-w-WId,2.0,3.0,194
+709,Kokomo-sVphf,2.0,4.5,194
+710,The Marquis-alGiE,2.0,3.5,192
+711,Moja Coffee-G-Ugj,2.0,4.0,192
+712,Koyuki Sapporo Ramen-esiq2,2.0,3.5,192
+713,Jade Dynasty Restaurant--rfxp,2.0,3.5,192
+714,Caffe Barney-LPxSk,2.0,3.5,192
+715,Remi Patisserie-kb6am,,4.0,190
+716,Nat's New York Pizzeria-XgOce,1.0,3.5,190
+717,Thai Basil-CLxk9,1.0,3.5,188
+718,Thai Away Home-aD18k,2.0,3.5,188
+719,Storm City Coffee-wzIPC,2.0,4.0,188
+720,Paragon Tea Room-vJmK7,2.0,4.5,188
+721,New Town Bakery & Restaurant-GXHBk,1.0,3.5,188
+722,Las Tortas-LBkrc,2.0,4.0,188
+723,Jericho Beach Park-ZmHvA,,4.5,188
+724,DICED Discovery Cafe-OuoZH,1.0,4.0,188
+725,Black Walnut-OmAgK,,5.0,188
+726,Tacofino Ocho-wtyCB,2.0,3.0,186
+727,Steamworks-Wdywx,2.0,3.5,186
+728,Purebread-eDTuL,2.0,4.0,186
+729,Nox-rosVE,,4.0,186
+730,JOEY Bentall One-A2bK8,2.0,3.5,186
+731,H2 Kitchen + Bar-XW4HC,2.0,3.5,186
+732,H Tasting Lounge-PAGvP,4.0,4.0,186
+733,Guu with Otokomae-oiuMk,2.0,3.5,186
+734,Café Zen On Yew-PpPVb,2.0,3.5,186
+735,The Praguery-mdHAp,,3.5,184
+736,Hydra Estiatorio-18J36,3.0,3.5,184
+737,The Lobby Lounge and RawBar-HJ7T2,3.0,4.0,182
+738,Rosemary Rocksalt-AMe-7,,3.5,182
+739,Brass Fish Tavern-wjF0l,,4.0,182
+740,Yuwa Japanese Cuisine-H2bds,3.0,4.0,180
+741,Tractor-fcgCS,2.0,3.5,180
+742,The Old Spaghetti Factory-SEisY,2.0,3.5,180
+743,La Glace-eOmib,2.0,4.5,180
+744,Döner Kebab-4Wv5v,1.0,4.0,180
+745,Tim Hortons-GufvK,,1.5,178
+746,The Poke Guy-Oy9MJ,2.0,4.5,178
+747,Sun Garden Chinese Restaurant-nnyrO,2.0,2.5,178
+748,Starbucks-wtBXB,2.0,4.5,178
+749,Science World-ZDcCa,,4.0,178
+750,Rio Brazilian Steakhouse-smHdO,3.0,2.5,178
+751,Pho Express Ankor Noodle House-FEpZ_,1.0,4.0,178
+752,Osaka Sushi-6hJuF,2.0,3.5,178
+753,Nonna's Cucina-5lzSG,,4.5,178
+754,Mandarin Hong Kong Cafe-GOSGC,2.0,3.5,178
+755,Johnny’s On Oak-DgdRk,,4.5,178
+756,JJ Bean Coffee Roasters-AdF53,2.0,4.0,178
+757,Honolulu Coffee-r4uSz,,4.5,178
+758,Corner 23-12fHo,2.0,3.0,178
+759,City 1 Cafe-1n8Cf,2.0,3.5,178
+760,Trocadero Pizza & Steak House-Fj_Ri,2.0,3.0,176
+761,Song Huong Vietnamese-GKNwu,2.0,4.0,176
+762,Water Street Cafe-iq34B,2.0,3.5,174
+763,Silvestre Deli & Bistro-ZkOBQ,2.0,4.0,174
+764,Pacific Poke-gq2z3,,4.5,174
+765,Koko Monk Chocolates-l6pTv,,4.5,174
+766,Jollibee-31ag-,2.0,3.0,174
+767,Freshslice Pizza-aSA-W,1.0,3.5,174
+768,Dallas Pizza & Souvlaki-WgkHd,2.0,3.0,174
+769,Chai Wagon-WSydi,,4.5,174
+770,Breka Bakery and Cafe-h1vHM,,3.5,174
+771,Al Porto-akINF,2.0,3.5,174
+772,A&W-YE3Xy,1.0,3.5,174
+773,Van 168 Coffee-dB4cb,,4.0,172
+774,The Pie Shoppe-vTPO6,1.0,3.5,172
+775,The Morrissey Pub-H_nxL,2.0,3.5,172
+776,Pho Goodness-m9hRv,2.0,3.5,172
+777,Nammos Estiatorio-3pJTS,2.0,4.0,172
+778,Kwong Chow Congee & Noodle House-BmvdQ,2.0,3.5,172
+779,Kaori Izakaya-Nco_O,,3.5,172
+780,JJ Bean Coffee Roasters-1nBhP,2.0,4.5,172
+781,Hundy-btfq1,,3.5,172
+782,Evelyn's Coffee Shop-l14TI,1.0,4.5,172
+783,Cilantro Indian Cuisine-NKxix,,4.5,172
+784,Browns Crafthouse-0iDHa,,4.0,172
+785,Batard Boulangerie & Cafe Moderne-6SkhB,2.0,4.5,172
+786,Volcano Sushi & Grill-SXhG-,2.0,3.5,170
+787,Sushi Mania-Ad3_M,2.0,4.0,170
+788,Ryuu Japanese Kitchen-l5UAB,2.0,3.5,170
+789,East is East-mKp5l,3.0,4.0,170
+790,District Eleven-zPWEJ,,4.0,170
+791,Boiling Point-17GZk,2.0,3.5,170
+792,The Farmhouse-WZz3g,,4.0,168
+793,Menya Itto-nFo9m,2.0,3.5,168
+794,Loula’s Taverna-u4AZR,,3.5,168
+795,Obanhmi-64drF,,5.0,166
+796,Hime Sushi-YUWUw,2.0,3.0,166
+797,Foret Noire Patisserie-gRepm,2.0,4.0,166
+798,RV’s Butter Kitchen-SHrLU,,4.5,164
+799,Bump N Grind-v0NgG,2.0,4.0,164
+800,Urban Tadka-Qw1kY,,5.0,160
+801,Tokyo John-V9SDw,2.0,3.5,160
+802,Nam San-J8ZMZ,,4.5,160
+803,Little Saigon Yaletown-nnffE,2.0,3.5,160
+804,Kamei Royale Japanese Restaurant-11DWf,2.0,3.5,160
+805,BAMBU-_ZnXD,2.0,4.0,160
+806,Tony's Fish & Oyster Cafe-gAjat,2.0,3.5,158
+807,Rolling Cashew-sbeSm,,4.5,158
+808,Railtown Cafe-zXTFy,2.0,4.5,158
+809,Pho 37-VWp6k,,4.5,158
+810,La Ruota-cK5zM,,4.0,158
+811,Frankie's Italian Kitchen-JMz8y,2.0,3.5,158
+812,Breka Bakery & Cafe-gX0vu,2.0,4.0,158
+813,A Bread Affair-RxiPu,1.0,4.0,158
+814,Terra Breads-Vuumk,2.0,4.5,156
+815,Sun Bo Kong Vegetarian Restaurant-D3Kdq,2.0,4.0,156
+816,Sal y Limon Mexican Cuisine-6pCz3,,4.0,156
+817,Rice and Noodle-3dyhY,2.0,4.0,156
+818,Po Kong Vegetarian Restaurant-mfgRq,2.0,4.0,156
+819,Mazuya Sushi-Q0AzZ,2.0,3.5,156
+820,Knight Street Cafe-QzEJ3,2.0,4.5,156
+821,Hynes' Irish Pub-0T5YM,,3.5,156
+822,House of Dosas-VCiop,2.0,4.0,156
+823,Hai Phong Vietnamese Restaurant-gUCHS,1.0,3.5,156
+824,Gyoza Bar-2UAmj,2.0,3.5,156
+825,Fife Bakery-K1wzS,1.0,4.0,156
+826,Do Chay-l3ed9,2.0,4.5,156
+827,Castaway Bar and Kitchen-Lnv8S,,3.0,156
+828,Breka Bakery & Cafe-vZkov,1.0,4.0,156
+829,720 Sweets-9zTAt,1.0,3.5,156
+830,Le Petit Saigon-jtq2E,1.0,4.0,154
+831,Kafka's Coffee & Tea-Sl2d6,,4.5,154
+832,Viva Fine Foods & Bakery-jd0Xy,2.0,4.0,152
+833,Thai Basil-3o_ue,1.0,3.5,152
+834,Subway-tnlG1,,3.5,152
+835,Merci Beaucoup Cafe-9k97Y,,4.0,152
+836,Little Umbrella-WUON9,,5.0,152
+837,Laughing Bean Coffee Company-3Yrl4,1.0,3.5,152
+838,Indian Village Eatery-Mohfl,1.0,4.0,152
+839,Ay Chihuahua-1ASEC,,4.5,152
+840,Trees Organic Coffee-QcDWy,2.0,3.5,150
+841,The Refinery-pdpIt,2.0,4.0,150
+842,The Peri Peri Shack-Gqoph,,4.5,150
+843,Sushi Mugen-4WMFY,2.0,4.0,150
+844,Pholicious-0c96e,1.0,4.5,150
+845,Old Hastings Mill Store Museum-x-a-Z,,4.5,150
+846,Hendricks Resto-Lounge-UAYCq,2.0,4.0,150
+847,English Bay Beach Park-VoziJ,,4.5,150
+848,Autostrada-K4NYa,,4.0,150
+849,P2b Bistro & Bar-3Ixvx,2.0,3.5,146
+850,Kilimanjaro Snack House and Catering-w5upf,2.0,4.0,146
+851,Got Pho-IHDK9,1.0,4.0,146
+852,Fiore Famiglia-U06FT,,3.5,146
+853,Catoro Cafe-vEMHH,,4.0,146
+854,Captain's Oven Pizza-DFDjS,,4.5,146
+855,Teahouse in Stanley Park-kK4im,3.0,4.0,144
+856,Starbucks-EuXzl,2.0,2.5,144
+857,Stanley Park 2nd Beach Picnic Area-2CxBA,,3.5,144
+858,Megabite Pizza-JIlC6,1.0,2.5,144
+859,LIFT Bar Grill View-WiATq,3.0,3.5,144
+860,Kyle's Café-2KcGg,1.0,3.5,144
+861,BT Cafe-H53_v,1.0,4.0,144
+862,A&W-hIPlc,1.0,2.5,144
+863,Zeitoon Restaurant-Njt9q,2.0,3.0,142
+864,The Indian Chef’s-JwxkM,,4.5,142
+865,Tamam: Fine Palestinian Cuisine-bqFmf,2.0,4.0,142
+866,Prado Café-l5YE5,1.0,3.5,142
+867,Kinara Indian Cuisine-9vDRi,,4.0,142
+868,James on Hastings Chinese Restaurant-v0RY1,2.0,3.5,142
+869,Babylon Café-xLKE3,1.0,3.5,142
+870,Angus T-uJNfd,1.0,4.0,142
+871,The Basic-PRnNb,2.0,3.5,140
+872,Princeton Pub-kZjiy,1.0,3.5,140
+873,Bar Corso-Ma2vz,,4.5,140
+874,Babylon Café-jSMpj,1.0,4.0,140
+875,Arriva Ristorante-5lAYu,2.0,3.0,140
+876,Yum Sweet Shop-S1BDe,2.0,4.0,138
+877,The Main-YdXAX,2.0,3.0,138
+878,Sushi Den-cq_L0,2.0,3.0,138
+879,"Paul Bakery, Cafe & Restaurant-1__7J",2.0,3.0,138
+880,Modern Handi Indian Cuisine-Tk7if,,4.0,138
+881,Hawkers Delight Deli-RQRRl,1.0,4.0,138
+882,Greens Organic + Natural Market-1BcSe,2.0,3.5,138
+883,Dan Dan Noodle-i30z4,,4.0,138
+884,Chickpea-3fsOh,2.0,3.5,138
+885,Platform 7-zm699,2.0,3.5,136
+886,Pizza Carano--RVpM,2.0,4.5,136
+887,Brioche Ristorante & Catering-8PUG0,2.0,4.0,136
+888,Mi Casa Mexicana-XDWS4,,4.0,134
+889,Fatburger-mbXdf,2.0,3.0,134
+890,Diva At the Met-wwG5m,3.0,3.5,134
+891,Vennie's Sub Shop-8S_m4,,4.5,132
+892,The Wicklow Public House-7BIpo,2.0,3.5,132
+893,Elysian Coffee-X-73k,2.0,3.5,132
+894,4 Brothers' Pizza-WsBJn,1.0,3.5,132
+895,The Butcher & Bullock-_Fili,2.0,3.5,130
+896,Sophie's Cosmic Café-hLKkv,2.0,3.0,130
+897,Small Victory Bakery-p8rb6,2.0,4.0,130
+898,Royal Seoul House Korean Restaurant-uDE6F,2.0,3.0,130
+899,O Sushi-2wWEk,2.0,3.5,130
+900,Kitsilano Beach Park-JntcG,,4.0,130
+901,Basil Pasta Bar-dzGss,2.0,3.5,130
+902,White Spot Kingsway-fwiP4,2.0,3.5,128
+903,To Dine For Eatery-Z63Cv,2.0,4.5,128
+904,Spicy 6 Fine Indian Cuisine-eqpBd,2.0,4.0,128
+905,Red Robin Gourmet Burgers and Brews-4-AFB,2.0,3.5,128
+906,Pink Peppercorn Seafood House-52o82,3.0,4.5,128
+907,Hariyali Express Indian Cuisine & Bar-1kIQ8,,5.0,128
+908,Grace of India-G_009,2.0,4.0,128
+909,Falafel Cafe-t_BJZ,1.0,4.5,128
+910,Dosa Factory-l3Uni,2.0,3.5,128
+911,Don Oso's-IVa3O,,3.5,128
+912,Ashiana Tandoori Restaurant-r2XDu,2.0,4.5,128
+913,Portland Craft-G0Ke8,2.0,3.0,126
+914,Vera's On The Drive-6wzzt,2.0,3.5,124
+915,Henry's Hip Eats-VEyW6,,4.5,124
+916,Ginger Sushi-nV6nL,2.0,4.0,124
+917,Auntie Jen's Pizzeria--3jnP,,4.0,124
+918,Nha Trang Restaurant-xieW0,1.0,3.5,122
+919,Liuyishou Hotpot-vWJIp,2.0,3.5,122
+920,Kouign Café-8PrTJ,,4.5,122
+921,Klasik Inasal & Noodle Express-TDT5D,,3.5,122
+922,Hoshi Japanese Cuisine-I5_hl,,4.0,122
+923,Off the Tracks Espresso Bar and Bistro-BMtil,2.0,3.5,120
+924,Nando's-sUKh8,2.0,3.5,120
+925,Firecrust-94M0q,2.0,4.0,120
+926,Alimentaria Mexicana-wJuDP,3.0,3.5,120
+927,Vancouver Mycological Society-s0cxg,,5.0,118
+928,VanDusen Botanical Garden-A-Zcf,,4.5,118
+929,Union Food Market--OPJm,1.0,4.5,118
+930,The Lion's Den Cafe-Z7el8,1.0,4.0,118
+931,Sushi Flamingo-kfqo0,,5.0,118
+932,Subway-3Lf0b,1.0,1.5,118
+933,Starbucks-t0KEs,2.0,3.0,118
+934,Shaughnessy Restaurant-dm9HU,2.0,2.5,118
+935,Second Cup-bGSNC,1.0,3.5,118
+936,Safeway-hVu1e,2.0,2.5,118
+937,Sabra Kosher Bakery & Restaurant-h5FcP,2.0,3.5,118
+938,Queen Elizabeth Park Pitch & Putt-ZyT8b,,3.5,118
+939,Queen Elizabeth Dog Park-K0w7P,,3.5,118
+940,Prototype Coffee-ia8px,,5.0,118
+941,Pho Don-QqO7u,1.0,3.5,118
+942,Pallet Coffee Roasters--FrcG,,3.5,118
+943,Pallet Coffee Roaster-9WecR,,4.0,118
+944,Old Beijing Roast Duck-PTLgT,4.0,2.0,118
+945,Oak Meadows-kX2Pd,,4.5,118
+946,Noodlebox-VzIh8,2.0,3.0,118
+947,Mobile Viennoiserie-H5f9-,,4.0,118
+948,Kim Express-osMPr,2.0,3.5,118
+949,Ki-Isu Japanese Restaurant-h53WO,2.0,3.5,118
+950,Good Co. Bar-dfG-D,2.0,3.0,118
+951,Garden Cafe at VanDusen Garden-2QNC6,2.0,3.0,118
+952,Douglas Park-LkQPQ,,4.0,118
+953,Douglas Park Community Centre-klHSy,,4.0,118
+954,Cactus Club Cafe-f7Sr6,3.0,3.5,118
+955,Braemar Park-QWp5X,,5.0,118
+956,Bon Macaron Patisserie-QKJk5,1.0,4.5,118
+957,Ba Le Sandwich Shop-GLuvX,1.0,4.0,118
+958,Aroom Cafe-r8F2v,,4.5,118
+959,Waffleland Cafe-PRn7g,2.0,4.0,116
+960,The Diamond-LblQ3,2.0,3.5,116
+961,Terra Breads-XNe7k,2.0,4.0,116
+962,Szechuan Chili-KegXV,1.0,3.5,116
+963,Ramen Gojiro-uN8RK,2.0,3.5,116
+964,Good Co. Bars-2Wlft,2.0,3.0,116
+965,Bubble World-7Ouec,1.0,4.0,116
+966,Sweet Obsession-nP1i_,2.0,3.5,114
+967,Serano Greek Pastry-8TmGT,1.0,4.5,114
+968,Regal Beagle-LziFV,2.0,3.0,114
+969,Holy Chow-tlf2f,2.0,4.0,114
+970,Hastings Mill Park-xKqib,,5.0,114
+971,Vogue Cakes-PE_EE,2.0,4.5,112
+972,The Praguery-U0Xbu,,4.5,112
+973,Rayhan-gzkgE,,4.0,112
+974,King’s Head Public House-vN-OS,,3.5,112
+975,Kibune Sushi-DJGoB,2.0,3.5,112
+976,Karma Indian Bistro-480jV,,4.5,112
+977,KITS Eyecare-htZ2l,,5.0,112
+978,Grain Tasting Bar-j0uom,2.0,3.5,112
+979,De Dutch-wUDhT,2.0,3.5,112
+980,De Dutch-BJ-mZ,2.0,3.5,112
+981,CM Chicken-EBXG0,,4.5,112
+982,Wendy's-vOpLZ,1.0,2.5,110
+983,The Brighton-loaSe,2.0,3.5,110
+984,Thailicious Cuisine At Door-Eww1m,2.0,3.5,110
+985,Roundel Cafe-bKgIE,2.0,3.5,110
+986,Pizzamia Gourmet Pizza Bar-5nGTO,,4.5,110
+987,Pho Extreme Xe Lua-1AA4E,1.0,2.5,110
+988,Le Pho-VV6AF,1.0,3.5,110
+989,East Cafe-HEX1r,1.0,4.0,110
+990,Continental Coffee House-T4QPN,1.0,4.0,110
+991,Chaise Lounge Restaurant-B985G,2.0,3.5,110
+992,Breka Bakery & Café-grCWG,2.0,4.0,110
+993,Autostrada-rNNb7,3.0,4.0,110
+994,Vancouver Aquarium-7CAWO,,4.5,108
+995,Totem Poles-S9GkS,,4.5,108
+996,Third Beach-u7A07,,4.5,108
+997,Third Beach Concession-OXPDS,1.0,1.5,108
+998,Tartine Bread & Pies-QKnRn,2.0,3.5,108
+999,Stanley's Bar & Grill-WDiGE,2.0,3.0,108
+1000,Kranky Cafe-g2-oF,1.0,4.0,108
+1001,Hot Cha Cafe-n1xMU,1.0,4.5,108
+1002,Dong Tai Xiang Shanghai Dim Sum-zFb8u,2.0,3.0,108
+1003,Dai Tung Chinese Restaurant-m1cwe,2.0,3.0,108
+1004,Boteco Brasil-V47IJ,2.0,3.0,108
+1005,Baghven Uyghur Cuisine-zeP-j,,4.0,108
+1006,Autostrada-4hKyT,,4.0,108
+1007,Air India Memorial-ZvRp6,,4.0,108
+1008,True Confections-owulv,2.0,3.0,106
+1009,Thai Basil-awSiI,1.0,3.5,106
+1010,Taishoken Ramen-rOHGR,2.0,3.5,106
+1011,Taco Nori Sushi Tacos-0hvWi,,4.5,106
+1012,Samurai Japanese Restaurant-4jM6M,2.0,3.5,106
+1013,Moxies-WRBvH,2.0,3.0,106
+1014,Dalina-81QtZ,,4.0,106
+1015,Uprising Breads Bakery-kzxed,1.0,3.5,104
+1016,The Galley Patio & Grill-fRKOe,2.0,3.5,104
+1017,Tagine Moroccan Restaurant and Bar-zz4WG,2.0,4.0,104
+1018,Papa Johns Pizza-mmbCC,2.0,2.5,104
+1019,McDonald's-a2_YL,1.0,2.5,104
+1020,Far Out Coffee Post-vbNZI,1.0,4.5,104
+1021,Convivial Cafe and Bakery-mdCA6,,5.0,104
+1022,Clough Club-L96II,2.0,3.5,104
+1023,Branas Mediterranean Grill-WzDJg,2.0,3.5,104
+1024,7-Eleven-MmBxw,1.0,3.0,104
+1025,Sushi Van-DhnBM,2.0,3.5,102
+1026,Simpatico Restaurant-H77Vt,2.0,3.0,102
+1027,Peaceful Restaurant-UQdyq,2.0,3.0,102
+1028,JJ Bean Coffee Roasters-dpbT9,2.0,4.5,102
+1029,Bonchaz Bakery Café-FyCYx,1.0,3.5,102
+1030,Antojos y Sabores-GUJ-D,,5.0,102
+1031,The Pizza Castle & Indian Curry-5DHwj,,4.0,100
+1032,Pallet Coffee Roasters Cafe-XmBFy,2.0,3.5,100
+1033,Mahony’s Tavern-g1Wcs,2.0,2.5,100
+1034,Kits Beach Coffee-jIZA2,2.0,4.5,100
+1035,Domino's Pizza-r5WNh,2.0,4.0,100
+1036,Commercial Street Cafe-3m9xL,2.0,3.5,100
+1037,Collective Goods Bistro & Grocer-7ZMz5,,4.0,100
+1038,Chance Cafe-s3M9P,1.0,4.0,100
+1039,Caffe Barney-sLBJg,2.0,3.0,100
+1040,Archer-nXaUx,,4.0,98
+1041,TurF-m0_G6,2.0,4.0,96
+1042,Sushi Nova-7DHoC,,3.5,96
+1043,Milano Coffee-lG1o4,2.0,4.0,96
+1044,Connie's Cook House-l53de,2.0,3.0,96
+1045,Vegan Cave Cafe-27LeH,,4.5,94
+1046,That’s It Cafe-XjczO,,5.0,94
+1047,Sushi Hanabi-rnT_y,,4.0,94
+1048,Pat's Pub-OPiTH,2.0,3.5,94
+1049,Pane From Heaven Bakery Café-McZ5r,1.0,4.0,94
+1050,Old Bird Restaurant-5Zesc,,3.0,94
+1051,New Fuji-CsyuT,,4.0,94
+1052,Modus Coffee Roasters-2M3JB,1.0,4.5,94
+1053,Kahve Cafe By Enflux-GzDU6,1.0,4.0,94
+1054,JOS-TBWsE,2.0,4.0,94
+1055,East West Market-J8URu,1.0,4.5,94
+1056,Cookies of Course-kmUV9,2.0,5.0,94
+1057,Foglifter Coffee Roasters-2sN6g,1.0,4.0,92
+1058,Wilder Snail-D4OfL,2.0,4.0,90
+1059,La Notte Restaurant-H2tZl,2.0,4.0,90
+1060,Hongdae Pocha Korean BBQ-B2OCw,2.0,3.0,90
+1061,Congee Noodle Delight-g2H-M,1.0,3.5,90
+1062,Blenz Coffee-s7RG7,1.0,2.5,90
+1063,Vancouver Maritime Museum-61KfR,,4.0,88
+1064,Sweet Thea Bakery-23ZAU,,5.0,88
+1065,Sushi Dragon-d8ohq,1.0,4.0,88
+1066,Ole Wings & Tapas-HNZTQ,2.0,3.0,88
+1067,Ogenki Sushi-2C_cS,1.0,3.0,88
+1068,Meat & Bread-BdHvz,1.0,4.0,88
+1069,Mahony's Tavern-_C85g,2.0,3.0,88
+1070,Haraheri-PPAT6,3.0,3.5,88
+1071,Chop Steakhouse & Bar-kdTYS,,4.0,88
+1072,Britannia Sushi-FkO87,1.0,3.0,88
+1073,BBQ Chicken-PotYj,,4.5,88
+1074,Alphabet City-7-lfl,,4.0,88
+1075,Alley 16-Rb0S3,,4.5,88
+1076,Nine Dumplings-nv0p0,,4.5,86
+1077,Max's Bakery & Delicatessen-lLYp3,2.0,3.0,86
+1078,Kyu Grill-NBm-y,,4.0,86
+1079,Cindys Palace-quPPa,2.0,3.0,86
+1080,YiFang Taiwan Fruit Tea-zr8cO,,3.0,84
+1081,West Point Grey Community Centre At Aberthau-IlEaB,,4.5,84
+1082,Vera's Burger Shack-JDeeR,2.0,3.5,84
+1083,Trimble Park-O3axN,,5.0,84
+1084,The Kitchen-QtRVE,2.0,4.0,84
+1085,Takumi Japanese Restaurant-BAqcM,2.0,3.5,84
+1086,Sun Sushi-dOuPr,1.0,3.5,84
+1087,Sasamat Seafood Market-m6nub,1.0,3.0,84
+1088,Rice Burger-yxAJS,2.0,4.5,84
+1089,Pizza Hut-8GiUo,,2.0,84
+1090,Pizza Garden Main-B1t0O,2.0,3.5,84
+1091,Ooh La La Donuts-zWxhb,,4.5,84
+1092,New Town Bakery & Restaurant-NN19p,1.0,3.5,84
+1093,Museum of Vancouver-Q2I4_,,3.5,84
+1094,Mix the Bakery-dtQmg,2.0,3.5,84
+1095,Milano Casa Ristorante-BK_pe,,2.5,84
+1096,Locarno Park Extension-S5ILj,,4.0,84
+1097,Kuroishi Sushi-jI_ZG,,4.0,84
+1098,Koi Sushi-byrSx,,4.0,84
+1099,JJ Bean-AkoPW,1.0,4.0,84
+1100,Hime Sushi-luaK3,,3.5,84
+1101,Gold Train Express-bamYw,1.0,3.5,84
+1102,Ginger & Chili Restaurant-PuO-n,1.0,3.0,84
+1103,Four Olives-hIB46,,4.0,84
+1104,Everyday Sushi-vnOhp,1.0,3.0,84
+1105,Domino's Pizza-iPujV,,5.0,84
+1106,Danoo Cafe-HDw5D,,3.5,84
+1107,Burgoo Bistro-oaBBS,2.0,4.0,84
+1108,Bombay Masala Indian Restaurant-caHt1,,4.5,84
+1109,Bella Roma Pizzeria & Ristorante-5tu4h,2.0,3.5,84
+1110,Bean Around the World Coffees-V8Q-G,2.0,4.0,84
+1111,49th Parallel Coffee--d473,2.0,4.0,84
+1112,The Heatley-dNmVU,2.0,3.0,82
+1113,Riley Park-pb6n2,,4.0,82
+1114,Riley Park Community Centre-lB2_5,,4.0,82
+1115,Mumu Kitchen-jht6z,,4.0,82
+1116,Liberty Bakery-z8fxG,1.0,4.0,82
+1117,Caffe Mira-avpNE,1.0,4.0,82
+1118,White Spot-tWjcn,2.0,3.5,80
+1119,Whiskey Six BBQ-c4XU8,2.0,3.5,80
+1120,Triple O's Restaurant-MELqz,,1.5,80
+1121,Tossed Gourmet Salad and Wraps-ihyH6,,5.0,80
+1122,Tim Hortons-Veq_W,,2.5,80
+1123,Tim Hortons-CneHx,1.0,3.0,80
+1124,The Wooden Roller Coaster-pjuFv,,3.0,80
+1125,The Ethical Bean Coffee Company-R5wF5,2.0,4.0,80
+1126,Teaspoons Co-GS7jb,,5.0,80
+1127,Subway-8VbFL,1.0,3.0,80
+1128,Starbucks-fPvKy,2.0,2.5,80
+1129,St. Regis Bar and Grill-Lvq8X,2.0,3.0,80
+1130,Ssong's Hotdog-vnEmk,,5.0,80
+1131,Sooyo Cafe-SsxFr,2.0,5.0,80
+1132,Silks Restaurant--_6hI,,3.5,80
+1133,Shilla Korean Restaurant-WeN3i,2.0,3.5,80
+1134,Rupert Park Pitch & Putt-d4PXZ,,4.0,80
+1135,Rumi Rose Garden Cafe & Market-7iEkr,1.0,4.0,80
+1136,Prairie Smoke & Spice-xachk,2.0,2.0,80
+1137,Playland at the PNE-abAFq,,3.0,80
+1138,Pekoe Tea Lounge-3TMGx,2.0,3.5,80
+1139,Pacific National Exhibition PNE-pMMhz,,3.5,80
+1140,New Brighton Park-EByyW,,4.5,80
+1141,Motonobu Udon-CU4UQ,2.0,4.0,80
+1142,Moon Cafe-4Cd13,,4.0,80
+1143,McDonald's-npYSm,1.0,2.0,80
+1144,Le Gateau Bakeshop-onb-q,2.0,4.5,80
+1145,La Fontana Caffe-Dv5PO,1.0,4.0,80
+1146,Kiki Cakes + Confections-0MMhM,2.0,5.0,80
+1147,Kanadell Japanese Bakery-kTLyn,,4.5,80
+1148,Just Waffles-7S4zt,2.0,4.5,80
+1149,Jenny Bakes-e8xpH,2.0,4.5,80
+1150,Italia Bakery-VcUHW,2.0,4.5,80
+1151,In The Moment Coffee-01Pp2,1.0,4.5,80
+1152,Il Giardino Italiano-_BkYJ,,4.0,80
+1153,Hiro Sushi-ffHHh,2.0,3.0,80
+1154,Hell's Gate-NxXdt,,4.5,80
+1155,Hastings Park-_UWGR,,4.0,80
+1156,Guilt & Company-IK_hl,2.0,4.0,80
+1157,Great Wall Mongolian BBQ-525Df,2.0,3.5,80
+1158,Forum Cafe-3Gjzs,,4.0,80
+1159,Ernie's Ice Cream-7Rqnv,,4.0,80
+1160,Dijo's Pizza & Panzerotto-s6T57,1.0,2.5,80
+1161,Devonshire Park-rFdNW,,5.0,80
+1162,Dairy Queen Grill & Chill-bEirh,,2.5,80
+1163,Dae Bak Bon Ga-oR5H6,2.0,3.0,80
+1164,Coffee Bar-tsHr1,,2.0,80
+1165,Chatime East Vancouver-dpm0w,2.0,3.0,80
+1166,Carthage Café-Mu1pi,2.0,4.0,80
+1167,Cannoli King Vancouver-uDcCE,,3.5,80
+1168,Callister Park-62f1Q,,3.0,80
+1169,Blowfish Sushi & Japanese Food-rjfqF,2.0,3.5,80
+1170,Birds & the Beets-CDsgv,2.0,4.0,80
+1171,Baci Restaurant-ayrlH,2.0,3.5,80
+1172,Adanac Park-LBVCF,,3.0,80
+1173,7-Eleven-JIQow,,2.0,80
+1174,Victoria Chinese Restaurant-e-R4n,2.0,3.0,78
+1175,Passione Gelato-s0INT,3.0,4.5,78
+1176,Last Draw Lounge-4RaH8,1.0,4.0,78
+1177,Gateau de Henry-nj3vY,,5.0,78
+1178,Fufu Pancake Cafe-Dy7FN,,3.5,78
+1179,Charleson Park-oCNy5,,4.5,78
+1180,Carte Diem - Seize The Souvlaki-9dJ9w,,3.5,78
+1181,Boston Pizza-Z8wd5,2.0,3.0,78
+1182,Blue Parrot Organic Coffee-kYYmv,2.0,3.0,78
+1183,A Taste of Vietnam-tPe5J,1.0,3.0,78
+1184,Vera's Burger Shack-2a3sz,2.0,3.5,76
+1185,Tractor-C8K5G,2.0,3.0,76
+1186,Sunshine Diner-x63Nj,2.0,3.5,76
+1187,Siwash Rock-UU4tQ,,4.5,76
+1188,Pauline Johnson Monument-QwFLp,,4.0,76
+1189,Nuba in Yaletown-0bfwN,2.0,4.0,76
+1190,Lovers Walk Trail-TBcn1,,5.0,76
+1191,Iki Japanese Restaurant-ROIiP,2.0,3.5,76
+1192,Hollow Tree-7b4hR,,4.5,76
+1193,Glory Juice-t6HuI,1.0,3.5,76
+1194,Donair Dude-hQoFg,1.0,3.5,76
+1195,Baroness-wHUqP,,4.5,76
+1196,5 Spice Vietnamese Cuisine-gr0Fk,1.0,4.0,76
+1197,Mister-33vTX,2.0,4.0,74
+1198,Unni Pastries-21SGK,,4.5,72
+1199,Tonkotsu Ramen Tsukiya-a-66o,,4.0,72
+1200,Thu Hien Deli & Sandwich Shop-86_bl,1.0,4.0,72
+1201,Take Five Cafe-idua0,1.0,4.0,72
+1202,Panago Pizza-Ui8n6,2.0,3.5,72
+1203,New Sam PO Meat & BBQ-ETMlT,1.0,4.0,72
+1204,Mediterranean Specialty Foods-aDx0s,2.0,4.5,72
+1205,Kokomo-HG5tl,,5.0,72
+1206,Kitanoya Guu Garlic-WaD_w,,4.0,72
+1207,Domino's Pizza-xQSs8,2.0,2.5,72
+1208,Cobs Bread-6Yv84,1.0,4.0,72
+1209,Steam Tea House-UpOe_,2.0,4.5,70
+1210,Kita No Donburi-02cGv,2.0,3.5,70
+1211,Elysian Coffee-b224L,2.0,4.0,70
+1212,WA-2!-5a2XO,3.0,5.0,68
+1213,Vancouver Seawall-XHJTd,,5.0,68
+1214,The Narcissus-8nZI2,,4.5,68
+1215,Stanley Park Pitch & Putt-Ghe36,,4.0,68
+1216,Pane E Formaggio-Z2e_H,,4.0,68
+1217,Notte's Bon Ton Pastry--vI6b,2.0,3.5,68
+1218,McBride Park-P8VnA,,4.5,68
+1219,Mali Thai Restaurant-_fNaz,2.0,3.0,68
+1220,Jean Beaty Park-IWkUi,,4.0,68
+1221,Hoy's Wonton House-sDbsU,1.0,2.5,68
+1222,Donair Town Robson-E9OK8,1.0,4.5,68
+1223,D'oro Gelato e Caffè-MOqk2,2.0,4.0,68
+1224,Cafe Phin and Pho-cH37S,1.0,4.0,68
+1225,BikeHike Adventures-sOejP,,5.0,68
+1226,93 Coffee-fn-Xu,,5.0,68
+1227,The Pie Hole | Vancouver-dGT1L,,3.5,66
+1228,Tacofino-rr3fg,,3.5,66
+1229,Sweet Revenge-xh8K-,2.0,3.5,66
+1230,Helen's Grill-4krz_,1.0,3.5,66
+1231,Frankie's Jazz Club-Qcobd,2.0,4.0,66
+1232,Best Falafel-_3UwH,,3.5,66
+1233,Tango's Meats-T3DU9,2.0,4.0,64
+1234,Stock Market-ohlEN,1.0,4.0,64
+1235,Slim's BBQ-ZEYEu,,3.5,64
+1236,Simit Bakery Cafe-phdll,,4.5,64
+1237,Shanghai Lu-gNd1_,2.0,2.5,64
+1238,Popina Canteen-W52gn,,3.0,64
+1239,Pizza Rubato Napoletana-gcJAI,,4.5,64
+1240,PHO Q & M-LVrgM,,4.0,64
+1241,Khaghan Restaurant-qnTcV,,3.5,64
+1242,Kamei on Broadway-ziQqb,,4.0,64
+1243,I Cafe-VBq1V,2.0,3.0,64
+1244,Hi-Nippon Japanese Restaurant-jZPYy,2.0,3.5,64
+1245,Granville Island Tea Company-UfNm7,2.0,4.5,64
+1246,Gobble-B0Jlp,,4.0,64
+1247,Elysian Coffee-hjRrS,2.0,4.0,64
+1248,Cultivate Tea-yt2C0,2.0,4.5,64
+1249,Church's Texas Chicken-eIjgo,1.0,3.0,64
+1250,Bon Macaron Patisserie-2d3V0,2.0,4.5,64
+1251,Bar Susu-0O5Vs,,4.0,64
+1252,Backstage Lounge-Ajauv,2.0,3.0,64
+1253,A La Mode-JfC4A,2.0,3.5,64
+1254,The Paper Crane-Fkhns,1.0,4.0,62
+1255,Nishi Sushi-6Wmhu,2.0,4.0,62
+1256,Zawa-8uXqv,2.0,2.5,60
+1257,The Mighty Oak-V8bM3,2.0,4.5,60
+1258,Sushi Main-TRYXC,2.0,3.5,60
+1259,Subway-BjPKA,2.0,4.0,60
+1260,Parade of the Lost Souls-1RCJN,,4.5,60
+1261,Greenhorn Cafe-RGCT7,2.0,4.0,60
+1262,Dutch Wooden Shoe Cafe-5OCrB,2.0,3.5,60
+1263,Vancouver City Hall-2Nqxk,,3.5,58
+1264,Shebeen Whisky House-hS91N,2.0,4.0,58
+1265,Relish Gastropub and Bar-Tty7X,2.0,3.5,58
+1266,Prestons Restaurant + Lounge Vancouver-q_uDQ,2.0,3.0,58
+1267,Hunnybee-foyFW,,3.5,58
+1268,Honolulu Coffee-OjVRM,2.0,4.5,58
+1269,Donair Dude Granville-cI5FP,1.0,4.0,58
+1270,Yandoux Patisserie-2zeh8,1.0,3.5,56
+1271,Urban Fare-NHuuL,2.0,3.0,56
+1272,Tru Cafe-6EkU5,,5.0,56
+1273,The Bubble Tea Shop-Iq3jX,,3.0,56
+1274,Pho Quynh Express-6yfGh,,3.5,56
+1275,Monument for East Vancouver-dNiSk,,4.0,56
+1276,Granville Street Bridge-cQswy,,4.5,56
+1277,Giancarlo's Sports Bar-vi9OG,1.0,5.0,56
+1278,Cheesecake Etc-uBMU1,1.0,3.5,56
+1279,Bon's Off Broadway-efyyF,1.0,3.5,56
+1280,Truck Stop Cafe-gv3jG,,4.0,54
+1281,Sushi Maro-ApjtI,2.0,3.5,54
+1282,New Sun Restaurant-ovjum,1.0,3.5,54
+1283,Hot Delivery Chinese Food-pQsTr,2.0,2.5,54
+1284,Charisma Cafe & Dessert House-Ebu8V,1.0,4.0,54
+1285,Burrard Bridge-KUDSL,,4.5,54
+1286,Aussie Pie Guy-X2ID8,2.0,3.5,54
+1287,The Belgian Chocolate Cafe-GzJXm,,4.0,52
+1288,Subway-fExtj,1.0,1.5,52
+1289,Quiznos-CseWc,,2.0,52
+1290,Purdys Chocolatier-uxlH1,2.0,4.0,52
+1291,Oceans 999-Q7DVB,3.0,3.5,52
+1292,Minato Sushi Restaurant-bjRGb,2.0,3.0,52
+1293,McDonald's-FEqXd,1.0,1.5,52
+1294,Hanai-GdAij,,4.0,52
+1295,D/6 Bar & Lounge-Gi947,3.0,3.5,52
+1296,Cozen-Wvzy3,,4.5,52
+1297,Chickpea Food Truck-KwFvq,2.0,4.0,52
+1298,bb.q Chicken-qrexK,,4.0,50
+1299,Jang Mo Jib-qqyVA,1.0,3.5,48
+1300,Impostori Trattoria + Negroni Bar-pz_Ak,,5.0,48
+1301,D'oro Gelato e Caffè-DmeNx,1.0,4.0,48
+1302,Sushi Hub-sz2eL,2.0,4.0,44
+1303,Simply Delicious Eatery & Lounge-Oi1o-,3.0,3.5,44
+1304,Santa Barbara Market-CnNMv,2.0,4.0,44
+1305,Park Drive-zSgaH,,3.0,44
+1306,MeetRice Noodle-x6I8Y,,4.0,44
+1307,Matchstick Coffee-a74gK,2.0,3.5,44
+1308,Long's Noodle House-Hcw11,2.0,3.5,44
+1309,Little Mountain Coffee-SBFhx,1.0,4.5,44
+1310,Le Marché St. George-HbFkl,2.0,4.0,44
+1311,Kung Fu Tea-SEtBt,,4.0,44
+1312,Jasmine Halal Meats & Mediterranean Produce-UcQDB,2.0,3.5,44
+1313,Ivy’s Kitchen Vietnamese Restaurant-EncNi,2.0,4.0,44
+1314,Honeybrew-OjFTZ,2.0,4.0,44
+1315,Haiyi Seafood Restaurant-CHW4_,2.0,3.5,44
+1316,HOOD29-Q7vyW,2.0,2.5,44
+1317,Egg & Co-u6VdF,2.0,4.0,44
+1318,Continental Coffee-u2mD3,1.0,3.5,44
+1319,Camosun Bog-ZzOTM,,5.0,44
+1320,Cambie Vietnamese Restaurant-JbKGr,1.0,4.0,44
+1321,COBS Bread-3Gr0u,2.0,3.5,44
+1322,Bonjour Banh Mi-6WoGC,,4.5,44
+1323,Bon Cafe-3eUMk,1.0,4.0,44
+1324,Bingo Taco-fZqBv,,4.0,44
+1325,Aperture Coffee Bar-KPL4X,,3.0,44
+1326,Vera's Burger Shack-dI4C1,2.0,3.5,42
+1327,Triple O's-BJjib,1.0,3.0,42
+1328,TWB The Wine Bar-CPB1R,2.0,3.5,42
+1329,Starbucks-j08f_,1.0,4.0,42
+1330,Panne Rizo-Ru5ed,2.0,3.5,42
+1331,Mr Japanese Curry-uZOaR,2.0,4.0,42
+1332,Juliet's Café-xZSks,2.0,3.0,42
+1333,Joyeaux Cafe & Restaurant-4KRfg,2.0,3.5,42
+1334,Baggio Gelateria & Pizzaeria-psiDE,2.0,3.0,42
+1335,Zoomak Korean Tavern-Z2727,,4.0,40
+1336,ZamZam-w1wFd,,4.5,40
+1337,Yi Fang-u_5ba,2.0,3.5,40
+1338,YY Sushi-d1DWP,,4.0,40
+1339,Viet Sub-DAvLt,1.0,4.0,40
+1340,Vegan Pizza House-ij4oi,2.0,4.0,40
+1341,Truong Thanh Vietnamese Restaurant-syK9I,1.0,3.5,40
+1342,Trung Nguyen Cafe-XDpwQ,,4.0,40
+1343,The Tipper Restaurant-YW50T,2.0,4.0,40
+1344,The Lamplighter Public House-ViBoy,2.0,3.0,40
+1345,Skewers Souvlaki Pita Bar-EYjSo,,4.5,40
+1346,Sitar-Fijv7,2.0,3.5,40
+1347,Shore to Shore-et2J8,,5.0,40
+1348,Shiok Singapore Cuisine-I1SNU,2.0,4.0,40
+1349,Ray Wong Insurance-q00k1,1.0,4.0,40
+1350,Pür & Simple-kD-V4,,3.0,40
+1351,Pho Thai Hang 2-BIUQc,1.0,3.5,40
+1352,Pho Goodness-bAXv0,1.0,3.5,40
+1353,Pho Duy-m4cYI,2.0,4.0,40
+1354,Nukid Cafe-kW9yN,,4.0,40
+1355,Nine O'Clock Gun--2iIU,,4.5,40
+1356,My Chau Restaurant-q59-U,1.0,4.0,40
+1357,Mui Ngo Gai-_Xa0L,1.0,4.0,40
+1358,Moltaqa Moroccan Restaurant-5agBC,,4.0,40
+1359,McDonald's-5l7nJ,1.0,2.0,40
+1360,Maxim's Bakery-kbP0s,2.0,5.0,40
+1361,Lord Byng Pool-ztc-i,,2.0,40
+1362,Locarno Beach-Otxe4,,4.0,40
+1363,Icy Bar-qyRAQ,2.0,3.0,40
+1364,Hestia Kitchen Lab-LJgpn,,4.0,40
+1365,Heather Park-yoCA7,,4.5,40
+1366,Hazukido-JJxTo,,4.0,40
+1367,Harry Jerome Monument-qxM40,,4.5,40
+1368,Hallelujah Point-QIOIF,,4.0,40
+1369,Green Lettuce Indian Style Chinese Restaurant-ytp2-,2.0,4.0,40
+1370,Flower And Horse In Spring-xhkf4,2.0,3.5,40
+1371,Feel City BBQ-fC7Ni,,3.5,40
+1372,Famous Dosa Indian Grill & Thalapkatti Biryani House-pi7dQ,,2.0,40
+1373,Euro Food Plus-eI6E8,2.0,3.5,40
+1374,El Guapo-zUYE1,,4.0,40
+1375,Dosa World-bPWEf,,4.0,40
+1376,Digital Orca By Douglas Coupland-4g1e1,,4.5,40
+1377,Deccan Chilli's-JqHqj,,3.5,40
+1378,Deacon's Corner-zh1Fa,2.0,3.5,40
+1379,Crab Hot Lau-sXqt4,2.0,4.0,40
+1380,Coco Rico Cafe-a9P_J,2.0,3.5,40
+1381,Chicken World-6Dm1N,,3.0,40
+1382,Chehalis Monument - Celtic Cross--S55l,,5.0,40
+1383,Cafe Villaggio-loH1n,1.0,3.5,40
+1384,Cadeaux Bakery-IvUHI,2.0,4.0,40
+1385,Brockton Point Lighthouse-Nj0Q4,,4.0,40
+1386,Brockton Pavilion-8Ilxt,,3.0,40
+1387,Breaking Bean-bvIDT,2.0,4.5,40
+1388,BookKyung Ban Jeoum Korean-8mdGN,2.0,3.0,40
+1389,Baja Racing-CLW-0,,4.0,40
+1390,Ziplining Queen Elizabeth Park-Zkgix,,4.0,38
+1391,ZUBU-ORz5f,,4.0,38
+1392,White Spot Kerrisdale-XU4Dm,2.0,2.5,38
+1393,Vegan Shoku Japanese Restaurant-xxhni,,5.0,38
+1394,The American-PSoeq,2.0,3.5,38
+1395,Sweet E's Pastries And Sweets-zRNC5,2.0,4.5,38
+1396,Sushi time-RUOzh,,4.0,38
+1397,Sushi Bar Ajisai-S6QRn,2.0,4.0,38
+1398,Steve's Poké Bar-0wuDU,,4.0,38
+1399,Starbucks-s86kH,2.0,3.0,38
+1400,Southern Delicacy-lS9GS,,4.0,38
+1401,Sip Bowl La Mian-VRIQw,2.0,3.5,38
+1402,Shota Sushi and Grill-j3Y2J,,3.5,38
+1403,Secret Garden Tea-nhZTm,2.0,3.5,38
+1404,Prado Cafe-LOJGr,,4.5,38
+1405,Polonia Sausage House-B87x5,1.0,4.5,38
+1406,Pho Tan's Vietnamese Restaurant-zmYA1,2.0,3.5,38
+1407,Perchance-XeI7t,,4.5,38
+1408,Orange Corner-R4Ycm,1.0,2.5,38
+1409,Nando's Peri-Peri-YDPyB,2.0,3.0,38
+1410,Nana's Green Tea-yhlLj,2.0,4.0,38
+1411,Moore's Bakery & Delicatessen-yCP29,1.0,4.0,38
+1412,Miyako Sushi-HIR6i,2.0,2.5,38
+1413,Minerva Restaurant-Ln24H,2.0,4.0,38
+1414,Michele Cake Shop-paI2T,2.0,4.0,38
+1415,Me + Crepe-rgruU,,4.0,38
+1416,McDonald's-yA6b2,1.0,1.5,38
+1417,Legato Tea and Coffee-cI8qA,2.0,4.5,38
+1418,La Cuisson Cafe-OzgQE,2.0,3.5,38
+1419,Kokoro Tokyo Mazesoba-aldkG,,4.0,38
+1420,Khao Thai By Legato-0t0r4,,4.0,38
+1421,Kerrisdale Nakamura-nTHNv,2.0,3.5,38
+1422,KFC-8HRKV,1.0,2.0,38
+1423,Jiu Jiang Japanese Restaurant-R-KPT,2.0,3.5,38
+1424,Jess' Restaurant-GcC9O,3.0,4.0,38
+1425,Irashai Sushi-vEqwW,2.0,3.0,38
+1426,Honolulu Coffee-EoqXs,2.0,4.0,38
+1427,Homeslice Cafe & Bakery-pFFfZ,,5.0,38
+1428,Guu Davie-IyldN,,3.5,38
+1429,Gram Cafe & Pancakes-t1FSj,,4.0,38
+1430,Golftec-7EVn1,,5.0,38
+1431,Golden Ocean Seafood Restaurant-IIQEp,2.0,3.5,38
+1432,Fish Café-RR6KQ,2.0,3.5,38
+1433,Faubourg-MpGtJ,2.0,3.5,38
+1434,Donair Dude-VrpvS,,4.5,38
+1435,Dairy Queen / Orange Julius-1YPW_,,4.5,38
+1436,Cobs Bread-cEMnB,2.0,3.5,38
+1437,Church's Texas Chicken-xzpPu,1.0,3.0,38
+1438,China Lan Lanzhou Beef Noodle-LrpF_,2.0,4.0,38
+1439,China Creek North Park-7kKHr,,4.0,38
+1440,Chef Hung Taiwanese Beef Noodle-g43Z3,2.0,3.0,38
+1441,ChaseTea-gThYL,,4.0,38
+1442,Castella Cheese Tart-GjJYF,,4.5,38
+1443,Caffe Artigiano-V_rZH,2.0,3.0,38
+1444,Burrata Pizzeria-TUDO-,,4.0,38
+1445,Bufala-q3reT,2.0,3.5,38
+1446,Barra 41-sHoiD,2.0,4.0,38
+1447,Baoguette Vietnamese Bistro-Xs0Ov,2.0,3.0,38
+1448,Baan Wasana Thai Restaurant-jR5KX,2.0,3.5,38
+1449,BBT Cafe-lNUEu,2.0,3.0,38
+1450,Asa Sushi-qyVFb,2.0,3.0,38
+1451,Adonia Tea House-eP5V-,2.0,3.5,38
+1452,41 Noodle & Rice Pot House-EgAoY,2.0,4.0,38
+1453,Trim & Healthy-D-J3i,,5.0,36
+1454,Trafalgar Park-_dzyd,,5.0,36
+1455,Tokyo Katsu-Sand-kljK-,,4.0,36
+1456,Tim Horton-Y8ZoL,1.0,2.5,36
+1457,Taqueria Tachingon-idJDD,,3.5,36
+1458,Tamaly Shop-U4lzP,,4.5,36
+1459,Subway-g3Yh8,,4.5,36
+1460,Subway-U9C8z,2.0,1.5,36
+1461,Subway-LdPw2,,5.0,36
+1462,Starbucks-mFPuJ,2.0,4.0,36
+1463,Red Card Sports Bar + Eatery-Yqp6V,2.0,3.0,36
+1464,Quilchena Park-TMDzo,,3.0,36
+1465,Quilchena Off-leash Dog Park-l6JWM,,4.5,36
+1466,Prince of Wales Park-orF9d,,4.0,36
+1467,Pallet Coffee Roasters-OyiEg,1.0,3.5,36
+1468,Nectar's Coffee Shop-0VWql,1.0,4.0,36
+1469,McDonald's-d6uZP,1.0,2.5,36
+1470,Koi Ramen & Eatery-xfK9_,2.0,3.0,36
+1471,Finest At Sea Seafood Boutique-kIdwy,2.0,3.0,36
+1472,Donair Dude - Kitsilano-E0dEh,1.0,4.0,36
+1473,Ca Croustille-Iufgn,,4.5,36
+1474,Breakaway Adventures-vJPVo,,5.0,36
+1475,Bayswater Tea Company-9yrZF,2.0,4.0,36
+1476,Arbutus Village Park-K1ZOz,,5.0,36
+1477,Arbutus Greenway-Yj3C9,,4.5,36
+1478,Angus Park-gDZfw,,5.0,36
+1479,Amato Gelato Cafe-uBrdX,2.0,3.5,36
+1480,Aiyaohno Cafe-JoUEZ,,4.5,36
+1481,Piast Bakery-iSENI,1.0,4.5,34
+1482,Mount Pleasant Park--65-O,,5.0,34
+1483,Kokomo-S4DFe,,4.0,34
+1484,Chirpyhut Fried Chicken-AdlGy,,3.5,34
+1485,ocean wise cafe-AiK2D,,4.0,32
+1486,mizu sushi co.-6vWel,,5.0,32
+1487,Zab Zaab Thai Cuisine-zSVlS,,4.0,32
+1488,Whole Food Market-zp4aL,1.0,4.0,32
+1489,Vancouver Best Cookies-eg_T4,,4.5,32
+1490,Tractor-YH_jj,2.0,3.5,32
+1491,The Basic-_mdM0,2.0,3.5,32
+1492,Sushi Aboard-5rbWt,,3.5,32
+1493,Shining Garden Restaurant-pdb8s,2.0,3.5,32
+1494,Salsa & Agave Mexican Grill-pzPNq,2.0,3.5,32
+1495,Pizzeria Grano-JpdBI,,4.5,32
+1496,Paper Cone Desserts-aQHQh,,4.5,32
+1497,OneZo Tapioca-KwkT0,,4.0,32
+1498,Nikkyu Japanese Restaurant-jPvAu,2.0,2.5,32
+1499,Morton Park-EGZAB,,4.5,32
+1500,Matchstick-bR0Aw,1.0,4.0,32
+1501,Marble Slab Creamery-pFBYJ,2.0,3.5,32
+1502,Dairy Queen Grill & Chill-tpbj_,1.0,3.0,32
+1503,Chicken World-hp3hh,,4.0,32
+1504,Capo & The Spritz-NqNVJ,,3.5,32
+1505,Bel Café - Kits-tyzaH,,4.0,32
+1506,Aquarium Cafe-_HmEg,1.0,4.5,32
+1507,Ajiya Sushi Bar-w7q3A,1.0,3.5,32
+1508,Ah Long Sushi-gn6ws,,3.5,32
+1509,Timbertrain Coffee Roasters-pXmP7,,4.0,30
+1510,Sneaky Pete's Pool Cafe-g5e7K,,4.5,30
+1511,Sazon Mexican Cuisine-5Va5J,,3.5,30
+1512,Reggiano’s Pizza-hFre3,,4.0,30
+1513,Kadoya Japanese Restaurant-eklI9,2.0,3.5,30
+1514,Best Burrito-Nrmsd,1.0,3.5,30
+1515,Rinconcito Salvadoreno Restaurant-_e56I,2.0,3.5,28
+1516,Pizza Garden Commercial-bgzFQ,1.0,2.5,28
+1517,Penang Bistro--aVcS,2.0,3.0,28
+1518,Nene Chicken-I-LkX,,3.5,28
+1519,Mean Poutine-llNNX,1.0,4.0,28
+1520,LanaLou's-GHgCJ,1.0,3.5,28
+1521,La Bise Bakery-Ibeje,,4.5,28
+1522,Kojima Sushi-rcGTD,1.0,3.5,28
+1523,Joe's Cafe Bar-KJ0Ao,1.0,3.5,28
+1524,Holy Smoke-3zaU9,,4.5,28
+1525,Good Sushi-EXImm,2.0,3.5,28
+1526,Ganache Patisserie-Pi9WL,2.0,4.0,28
+1527,Disco Cheetah-KBFdi,2.0,4.0,28
+1528,Community Taps + Pizza-Y0gFX,,3.0,28
+1529,Burger Crush-4AwQC,2.0,4.5,28
+1530,Yardie Grabz-DJlPL,,5.0,26
+1531,Uncle Abe's-ELb5M,,3.5,26
+1532,Starbucks-35oGS,2.0,3.0,26
+1533,S2 Cafe House-c5huG,1.0,3.5,26
+1534,Papa’s Gourmet Pizza-7vqgq,1.0,4.0,26
+1535,Niu Niu BBQ Restaurant-KPfH9,,2.0,26
+1536,Mr Churro-GcePr,,5.0,26
+1537,Momono Tea Shop-RkvDV,,4.5,26
+1538,Liquids And Solids-djKcH,1.0,4.0,26
+1539,Kam Wai Dim Sum-lXMls,1.0,4.0,26
+1540,Hyde-k6HVe,2.0,3.5,26
+1541,Forecast Coffee-wZELJ,,3.0,26
+1542,COBS Bread-QUW0h,1.0,4.0,26
+1543,Bean Around the World Coffees-rzCy8,1.0,3.5,26
+1544,Astoria-klV8S,1.0,3.0,26
+1545,Addah-QbvMa,,4.5,26
+1546,101 Boba-68_Bm,,4.5,26
+1547,Uno Gelato-yOToT,,4.5,24
+1548,The Lido-JqTBm,2.0,3.5,24
+1549,Cold Tea Restaurant-OwnL0,,3.5,22
+1550,Carlino Restaurant-4vMUH,,3.5,22
+1551,Cafe Il Nido-QPy2v,2.0,3.0,22
