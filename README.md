@@ -22,7 +22,6 @@ Library required
 > 
 > Outcome: [city_bikes.csv](data%2Fcity_bikes.csv)
 
-
 ## Step 2: Create consolidated listing of POI data within a 1km radius of each Bike Station
 
 The following steps were performed to obtain data from Foursquare. They were then repeated (revised as required) for Yelp. 
@@ -36,14 +35,28 @@ The following steps were performed to obtain data from Foursquare. They were the
 8. All_Results is a tidy dictionary that does not require json normalization.
 9. DataFrame is created using All_Results dictionary.
 10. DataFrame is dumped to json in ../data folder for future reference.
+11. Compare depth/breadth of results between FS and Yelp. 
 
 > Details: [02.yelp_foursquare_EDA.ipynb](notebooks%2F02.yelp_foursquare_EDA.ipynb)
-> 
+
+
 > Outcome:
-> 
+
+| YELP           | Foursquare  |
+|----------------|-------------|
+| 1,400 results. | 200 results |
+|  ![Yelp_initial_coverage_review.png](images%2FYelp_initial_coverage_review.png)               |![FS_initial_coverage_review.png](images%2FFS_initial_coverage_review.png)             |
+
 >   [FS_location_results.csv](data%2FFS_location_results.csv)\
 >   [Yelp_location_results.csv](data%2FYelp_location_results.csv)
 
+## Step 3: 
+
+> Details: [03.joining_data.ipynb](notebooks%2F03.joining_data.ipynb)
+> 
+> Outcome:
+> 
+>   
 ## Results
 (fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
 
