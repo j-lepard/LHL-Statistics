@@ -12,7 +12,7 @@ The overarching objective of this project was to perform and end-end data engine
 ## Process
 
 ### Data Engineering Overview:
-<img alt="Engineering_flow.png" height="300" src="images/Engineering_flow.png" width="30%" height=auto/>
+<img alt="Engineering_flow.png" height="500" src="images/Engineering_flow.png" width=auto/>
 
 ### Step 1: Obtain detailed information about bike-share stations in Vancouver.
 1. Obtain Master List of City Bike providers
@@ -72,7 +72,7 @@ The following steps were performed to obtain data from Foursquare. They were the
 > 
 > Outcome:
 > 
-> <img alt="ERD_vancouver_bikes.png" height="300" src="images/ERD_vancouver_bikes.png" width="30%" height=auto/>
+> <img alt="ERD_vancouver_bikes.png" height="300" src="images/ERD_vancouver_bikes.png" width=auto />
 
 ## Step 4: Hypothesis Testing
 1. Import data from either Sqlite directly or previously exported csv
@@ -87,11 +87,11 @@ The following steps were performed to obtain data from Foursquare. They were the
 > Details: [04.model_building.ipynb](notebooks%2F04.model_building.ipynb)
 
 > Outcome:
-> > Descriptive Statistics: <img alt="Bike_data_describe.png" height="300" src="images/Bike_data_describe.png" width="600%" height=auto/> 
+> > Descriptive Statistics: <img alt="Bike_data_describe.png" height="300" src="images/Bike_data_describe.png" width=auto /> 
 > 
-> ><img alt="Regression_Rating_vs_bikes.png"  src="images/Regression_Rating_vs_bikes.png" width="60%" height=auto/> 
+> ><img alt="Regression_Rating_vs_bikes.png"  src="images/Regression_Rating_vs_bikes.png" width=auto height=500/> 
 > 
-> ><img alt="OLS_rating_bikes.png"  src="images/OLS_rating_bikes.png" width="70%" height=auto/>
+> ><img alt="OLS_rating_bikes.png"  src="images/OLS_rating_bikes.png" width=auto height=500/>
 
 ## Results of Linear Regression Analysis:
 
