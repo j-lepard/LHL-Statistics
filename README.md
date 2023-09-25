@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-The overarching objective of this project was to perform and end-end data engineering activity, followed by statistical modelling to evaluate a hypothesis. 
+The overarching objective of this project was to perform and end-end data engineering activity, followed by statistical modelling to test the potential relationship between bike-share infoation and Point of Interest characteristics. 
 
 **Goals included:** 
 1. Developing API calls for City Bike to identify providers in a given location
@@ -12,7 +12,7 @@ The overarching objective of this project was to perform and end-end data engine
 ## Process
 
 ### Data Engineering Overview:
-<img alt="Engineering_flow.png" height="500" src="images/Engineering_flow.png" width=auto/>
+<img alt="Engineering_flow.png" height=auto src="images/Engineering_flow.png" width="50%"/>
 
 ### Step 1: Obtain detailed information about bike-share stations in Vancouver.
 1. Obtain Master List of City Bike providers
@@ -46,10 +46,10 @@ The following steps were performed to obtain data from Foursquare. They were the
 
 > Outcome: Yelp has broader coverage than Foursquare. FS was elminated from further analysis
 
-| YELP                                                                                                                            | Foursquare                                                                                                                 |
-|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| 1,400 results.                                                                                                                  | 200 results                                                                                                                |
-| <img alt="Yelp_initial_coverage_review.png" height="500" src="images/Yelp_initial_coverage_review.png" width=auto /> | <img alt="FS_initial_coverage_review.png" height="500" src="images/FS_initial_coverage_review.png" width=auto/> |
+| YELP                                                                                                               | Foursquare                                                                                                    |
+|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| 1,400 results.                                                                                                     | 200 results                                                                                                   |
+| <img alt="Yelp_initial_coverage_review.png" height=auto src="images/Yelp_initial_coverage_review.png" width=50% /> | <img alt="FS_initial_coverage_review.png" height=auto src="images/FS_initial_coverage_review.png" width=50%/> |
 
 >   [FS_location_results.csv](data%2FFS_location_results.csv)\
 >   [Yelp_location_results.csv](data%2FYelp_location_results.csv)
@@ -72,11 +72,11 @@ The following steps were performed to obtain data from Foursquare. They were the
 > 
 > Outcome:
 > 
-> <img alt="ERD_vancouver_bikes.png" height="300" src="images/ERD_vancouver_bikes.png" width=auto />
+> <img alt="ERD_vancouver_bikes.png" height=auto src="images/ERD_vancouver_bikes.png" width=25%% />
 
 ## Step 4: Hypothesis Testing
 1. Import data from either Sqlite directly or previously exported csv
-2. Identify the X/Y variables (Y= Rating, X= count of bikes)
+2. Identify the X/Y variables (Y= Rating, X= TOTAL count of bikes)
 3. Plot a linear regression using sns. 
 4. Obtain descriptive statistics for Bike_Date (min, max, std)
 5. Establish a null, alternate hypothesis.
@@ -87,11 +87,11 @@ The following steps were performed to obtain data from Foursquare. They were the
 > Details: [04.model_building.ipynb](notebooks%2F04.model_building.ipynb)
 
 > Outcome:
-> > Descriptive Statistics: <img alt="Bike_data_describe.png" height="300" src="images/Bike_data_describe.png" width=auto /> 
+> > Descriptive Statistics: <img alt="Bike_data_describe.png" height=auto src="images/Bike_data_describe.png" width=50% /> 
 > 
-> ><img alt="Regression_Rating_vs_bikes.png"  src="images/Regression_Rating_vs_bikes.png" width=auto height=500/> 
+> ><img alt="Regression_Rating_vs_bikes.png"  src="images/Regression_Rating_vs_bikes.png" width=50% height=auto/> 
 > 
-> ><img alt="OLS_rating_bikes.png"  src="images/OLS_rating_bikes.png" width=auto height=500/>
+> ><img alt="OLS_rating_bikes.png"  src="images/OLS_rating_bikes.png" width=100% height=auto/>
 
 ## Results of Linear Regression Analysis:
 
