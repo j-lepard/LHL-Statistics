@@ -113,7 +113,7 @@ Intercept (const):
 R-squared:
  * R<sup>2</sup> value is 0.047. 
   * This indicates that only 4.7% of the variance in 'rating' is explained by the 'Total_bikes_1km
-  * The R<sup>2</sup> value is extremently low! which suggests 'Total_bikes_1km' might not be a strong predictor for 'rating'
+  * The R<sup>2</sup> value is extremely low! which suggests 'Total_bikes_1km' might not be a strong predictor for 'rating'
 
 T-score and p-value: 
 * The t-score is >8, which is very large and correspondingly, the p-value is very small.
