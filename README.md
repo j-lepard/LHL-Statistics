@@ -11,7 +11,8 @@ The overarching objective of this project was to perform and end-end data engine
 
 ## Process
 
-![Engineering_flow.png](images%2FEngineering_flow.png)
+### Data Engineering Overview:
+<img alt="Engineering_flow.png" height="300" src="images/Engineering_flow.png" width="30%" height=auto/>
 
 ### Step 1: Obtain detailed information about bike-share stations in Vancouver.
 1. Obtain Master List of City Bike providers
@@ -45,10 +46,10 @@ The following steps were performed to obtain data from Foursquare. They were the
 
 > Outcome: Yelp has broader coverage than Foursquare. FS was elminated from further analysis
 
-| YELP           | Foursquare  |
-|----------------|-------------|
-| 1,400 results. | 200 results |
-|  ![Yelp_initial_coverage_review.png](images%2FYelp_initial_coverage_review.png)               |![FS_initial_coverage_review.png](images%2FFS_initial_coverage_review.png)             |
+| YELP                                                                                                                            | Foursquare                                                                                                                 |
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 1,400 results.                                                                                                                  | 200 results                                                                                                                |
+| <img alt="Yelp_initial_coverage_review.png" height="500" src="images/Yelp_initial_coverage_review.png" width=auto /> | <img alt="FS_initial_coverage_review.png" height="500" src="images/FS_initial_coverage_review.png" width=auto/> |
 
 >   [FS_location_results.csv](data%2FFS_location_results.csv)\
 >   [Yelp_location_results.csv](data%2FYelp_location_results.csv)
@@ -70,7 +71,8 @@ The following steps were performed to obtain data from Foursquare. They were the
 > Details: [03.joining_data.ipynb](notebooks%2F03.joining_data.ipynb)
 > 
 > Outcome:
-> ![ERD_vancouver_bikes.png](images%2FERD_vancouver_bikes.png)
+> 
+> <img alt="ERD_vancouver_bikes.png" height="300" src="images/ERD_vancouver_bikes.png" width="30%" height=auto/>
 
 ## Step 4: Hypothesis Testing
 1. Import data from either Sqlite directly or previously exported csv
@@ -84,9 +86,12 @@ The following steps were performed to obtain data from Foursquare. They were the
 
 > Details: [04.model_building.ipynb](notebooks%2F04.model_building.ipynb)
 
-> Outcome: ![Bike_data_describe.png](images%2FBike_data_describe.png)
-> ![Regression_Rating_vs_bikes.png](images%2FRegression_Rating_vs_bikes.png)
-> ![OLS_rating_bikes.png](images%2FOLS_rating_bikes.png)
+> Outcome:
+> > Descriptive Statistics: <img alt="Bike_data_describe.png" height="300" src="images/Bike_data_describe.png" width="600%" height=auto/> 
+> 
+> ><img alt="Regression_Rating_vs_bikes.png"  src="images/Regression_Rating_vs_bikes.png" width="60%" height=auto/> 
+> 
+> ><img alt="OLS_rating_bikes.png"  src="images/OLS_rating_bikes.png" width="70%" height=auto/>
 
 ## Results of Linear Regression Analysis:
 
