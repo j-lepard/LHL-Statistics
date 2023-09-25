@@ -11,6 +11,8 @@ The overarching objective of this project was to perform and end-end data engine
 
 ## Process
 
+![Engineering_flow.png](images%2FEngineering_flow.png)
+
 ### Step 1: Obtain detailed information about bike-share stations in Vancouver.
 1. Obtain Master List of City Bike providers
 Library required
@@ -125,11 +127,13 @@ However, despite the finding, the count of total bikes is NOT a strong predictor
 
 - [ ] Looping and consolidating API calls into a parseable dictionary.
 - [ ] String vs Index of json normalization
-- [ ] Connection string for Yelp. 
+- [ ] Connection string for Yelp.
+- [ ] Determining the best primary key to link tables.
+- [ ] Retaining enough data to keep POI 'distinct'
 
 
 ## Future Goals
 If time permitted I would:
 - Review the Yelp data for additional data points 
 - Perform additional EDA on Yelp vs FS data
-- 
+- Explore additional detail on the implications of distance to POI
