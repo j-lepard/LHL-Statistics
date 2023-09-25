@@ -63,7 +63,7 @@ The following steps were performed to obtain data from Foursquare. They were the
    5. "Update" functions to insert data into DB.
    6. "Read" select query for use in hypothesis testing. 
 6. Joins - create PK and FK in vancouver_bikes database
-7. Feature Engineering - remediate data elements for use in model
+7. SQL View - Feature Engineering - remediate data elements for use in model (example: price $$ -> 2)
 
 > Details: [03.joining_data.ipynb](notebooks%2F03.joining_data.ipynb)
 > 
@@ -119,10 +119,17 @@ As result of this linear regression model, we reject the null hypothesis. There 
 
 However, despite the finding, the count of total bikes is NOT a strong predictor for rating. This is supported by two observations: 
 1. The y-intercept- 0 bikes available implies a rating of 3.75. Considering the scale only goes to 5, there is very little opportunity for bike count to contribute to higher ratings. 
-2. The slope (coefficient) is  0.0004. For every increase in bike count, the rating increases by VERY little. Argueable, it is flat. 
+2. The slope (coefficient) is  0.0004. For every increase in bike count, the rating increases by VERY little. Arguably, it is flat. 
 
 ## Challenges 
-(discuss challenges you faced in the project)
+
+- [ ] Looping and consolidating API calls into a parseable dictionary.
+- [ ] String vs Index of json normalization
+- [ ] Connection string for Yelp. 
+
 
 ## Future Goals
-(what would you do if you had more time?)
+If time permitted I would:
+- Review the Yelp data for additional data points 
+- Perform additional EDA on Yelp vs FS data
+- 
