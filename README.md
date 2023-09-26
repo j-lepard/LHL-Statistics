@@ -54,7 +54,7 @@ The following steps were performed to obtain data from Foursquare. They were the
 >   [FS_location_results.csv](data%2FFS_location_results.csv)\
 >   [Yelp_location_results.csv](data%2FYelp_location_results.csv)
 > 
-> <img alt="pre_post_outlier.png" height=auto src="images/pre_post_outlier.png" width=75% />
+> <img alt="pre_post_outlier.png" height=auto src="images/pre_post_outlier.png" width=50% />
 ## Step 3: Migrate Data to SQLite Database.
 1. Create connection function to "vancouver_bikes"
 2. Define:
